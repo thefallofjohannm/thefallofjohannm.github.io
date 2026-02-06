@@ -1,4 +1,4 @@
-SHELL=/usr/bin/sh
+SHELL=/usr/bin/env sh
 
 .PHONY: run
 
@@ -12,3 +12,7 @@ install:
 	bundle config set --local path '.vendor/bundle'
 	bundle install
 
+update:
+	bundle update
+	bundle update --bundler
+	bundle install
