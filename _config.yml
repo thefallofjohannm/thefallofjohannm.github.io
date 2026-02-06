@@ -1,0 +1,55 @@
+title: Matěj Hošek
+author: Matěj Hošek
+url: "https://matejhosek.github.io"
+language: "cs-cz"
+
+logo: /assets/img/logo.jpeg
+description: Trvalé bydliště mých poznámek a článků o rozličných tématech
+show_downloads: false
+color-scheme: dark
+date-format: "%B %d %Y"
+permalink: /:categories/:title
+
+sidebar:
+  - name: Domů
+    icon: <i class="fa-solid fa-home"></i>
+    link: /
+  - name: O mě
+    icon: <i class="fa-solid fa-circle-info"></i>
+    link: /about/
+  - name: Články
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /articles/
+  - name: Poznámky
+    icon: <i class="fa-solid fa-pencil"></i>
+    link: /notes/
+  - name: Reference
+    icon: <i class="fa-solid fa-paper-plane"></i>
+    link: /references/
+  - name: Repozitář
+    icon: <i class="fa-sharp fa-solid fa-code"></i>
+    link: https://github.com/MatejHosek/MatejHosek.github.io/
+  - name: Atom feed
+    icon: <i class="fa-solid fa-rss"></i>
+    link: /feed.xml
+
+
+collections:
+  notes:
+    output: true
+  articles:
+    output: true
+
+
+plugins:
+  - jektex
+
+
+jektex:
+  cache_dir: ".jekyll-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
+

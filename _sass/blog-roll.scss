@@ -1,0 +1,16 @@
+
+.preview{
+	margin: 1em;
+	padding: 1em;
+	border-bottom: 1px solid #ccc;
+
+	h2 {
+		font-size: 1.5em;
+		margin-top: 0.5em
+	}
+
+	&:last-child{
+		border-bottom: none;
+	}
+
+}
