@@ -1,32 +1,35 @@
-title: Matěj Hošek
-author: Matěj Hošek
-url: "https://matejhosek.github.io"
+title: Tibor
+author: Tibor
+url: "https://thefallofjohannm.github.io"
 language: "cs-cz"
 
 logo: /assets/img/logo.jpeg
-description: Trvalé bydliště mých poznámek a článků o rozličných tématech
+description: Spisy + hudba
 show_downloads: false
 color-scheme: dark
-date-format: "%B %d %Y"
+date-format: "%d %B %Y"
 permalink: /:categories/:title
 
 sidebar:
-  - name: Domů
+  - name: Home
     icon: <i class="fa-solid fa-home"></i>
     link: /
-  - name: O mě
+  - name: About
     icon: <i class="fa-solid fa-circle-info"></i>
     link: /about/
-  - name: Články
+  - name: References
     icon: <i class="fa-solid fa-newspaper"></i>
     link: /articles/
-  - name: Poznámky
+  - name: Music
     icon: <i class="fa-solid fa-pencil"></i>
     link: /notes/
-  - name: Reference
+  - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /references/
-  - name: Repozitář
+  - name: Poetry
+    icon: <i class="fa-solid fa-paper-plane"></i>
+    link: /references/
+  - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
     link: https://github.com/MatejHosek/MatejHosek.github.io/
   - name: Atom feed
