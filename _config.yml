@@ -19,16 +19,13 @@ sidebar:
     link: /about/
   - name: References
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: /articles/
+    link: /references/
   - name: Music
     icon: <i class="fa-solid fa-pencil"></i>
-    link: /notes/
+    link: /music/
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
-    link: /references/
-  - name: Poetry
-    icon: <i class="fa-solid fa-paper-plane"></i>
-    link: /references/
+    link: /poetry/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
     link: https://github.com/MatejHosek/MatejHosek.github.io/
@@ -38,9 +35,9 @@ sidebar:
 
 
 collections:
-  notes:
+  posts:
     output: true
-  articles:
+  poems:
     output: true
 
 

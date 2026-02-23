@@ -8,12 +8,11 @@ permalink: "/references/"
 {% spliter %}
 ### Honza Černý
 
-Kamarád, bez kterého by tento blog neexistoval. Autor [blackblogu](https://blackblog.cz/).
+[blackblogu](https://blackblog.cz/).
 
 ---
 
-### Tadeáš Těhan
+### Ondra
 
-Kamarád a spolužák, se kterým se pravidelně účastním soutěží a akcí. Více na jeho [Linktree](https://linktr.ee/tadeastehan).
 {% endspliter %}
 </div>
