@@ -10,3 +10,4 @@ group :jekyll_plugins do
 end
 
 gem "activesupport"
+gem "csv"
