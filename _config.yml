@@ -28,7 +28,7 @@ sidebar:
     link: /poetry/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
-    link: https://github.com/MatejHosek/MatejHosek.github.io/
+    link: https://github.com/thefallofjohannm/thefallofjohannm.github.io/
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
