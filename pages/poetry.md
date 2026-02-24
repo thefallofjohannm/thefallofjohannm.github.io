@@ -6,5 +6,8 @@ permalink: "/poetry/"
 
 # Básně
 
-WIP
-
+<ul>
+{% for poem in site.poems %}
+    <li><a href="{{- poem.redirect_to -}}">{{ poem.title }}</a></li>
+{% endfor %}
+</ul>
