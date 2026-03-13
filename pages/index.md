@@ -1,5 +1,6 @@
 ---
-layout: default 
+layout: default
+permalink: /
 ---
 
 {% include blog-roll.html %}
