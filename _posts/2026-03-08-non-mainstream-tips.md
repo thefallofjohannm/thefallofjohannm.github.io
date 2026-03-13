@@ -14,22 +14,22 @@ category: Povídky
 
 First of all, download IDOS, this is for public transport in Czechia, you can input address and it finds you a way. Of course, you can also use apple maps, google maps etc. but this gives you more freedom when choosing the transport. Also, it is recommendable to use Mapy.cz, this app also has the bus stations etc. in there, but it is not necessary, just useful. Get a 3-day ticket or one-week ticket, it should come really cheap in the end. The ticket machines are always in a metro station. Also, if you're looking for something more outside of Prague (I might amplify my collection one day), search in visitczechia.cz
 
-1. Knedlín - Národní 115/24, 110 00 (Nové Město) - If we skip the details, this is the modern version of tradintional Czech dish. The typical one (from grandma) would be with apricot, strawberries, blueberries, or plums, here you can find many interestin variations and I recommend this place because the food is good and the overall experience is worth it. 
-2. Kolacherie - 1) Hybernské ulice 4, close to Náměstí republiky, 2) crosspoint of V Tůních and Na Rybníčku, close to I.P. Pavlova - Cakes and selected coffee. „Koláč“ (sg.) „koláče“ (pl.) is traditional Czech sweet dish. The most typical one are with 1) poppy seeds, 2) plum jam, 3) curd cheese called „tvaroh“ (tvaroh is basically super fresh cheese with no fermentation) which is very common in Czech sweet dishes (also possible to buy in supermarkets either dry or wet-like-yogurt). This café offers you variety of koláče e.g. tvaroh with raspberry, but also non-traditional with pistachio and chocolate. Furthermore, they offer also savoury, which used to be common many decades ago, but Czech people do not acknowledge them. 
-3. Boat ride - [pid.cz/en/ferries/](https://pid.cz/en/ferries/) - buy a ticket with PID for public transport and this is included 
-4. Kino Lucerna - Vodičkova 704 /36, 110 00 (Nové Město) - in my opinion this is an extraordinary place, just go through, see the horse on the ceiling and enjoy unusual architecture. (It’s been open since 1909) 
-5. Pasáž Koruna - Václavské nám. 846/1, 110 00 Můstek - another passage, but Lucerna is better 
-6. Pasáž Světozor - Pasáž Světozor, 110 00 Nové Město - another passage. with SVĚTOZOR, it is a cinema but also pastalería, cake shop, you should be able to eneter a park 
-7. Františkánská Zahrada - Vodičkova, 110 00 Nové Město - it is a nice place, there is café and a bar, you enter this through Pasáž Světozor 
-8. Valdštejnská zahrada - Letenská 123/4, 118 00 Malá Strana - this place is lit, it is beautfiul and if you should spend only 10 minutes in the park, it is worth it 
-9. Franz Kafka - Otočná Hlava - "K" - Socha Davida Černého - Charvátova, 110 00 Nové Město - Many tourists go to see the famous Franz Kafka’s head. It is a huge monument.
-10. Národní technické muzeum - Kostelní 1320/42, 170 00 Praha 7-Letná - you probably will not have time, but this is a technical museum and it is really cool.  
-11. Strossmayerovo náměstí - this whole place looks good and not many tourists in there, you can walk up and see some of the shops 
-12. Bageterie Boulevard- anywhere - this is not a typical Czech dish, but it is Czech fastfood and I think it is really good. For lunch/dinner, get the whole menu which is a baguette, patatas and ice tea. Before you order, ask them what is the baguette of the day, it is cheaper, but not that much, order what you like, but it is a tip 
-13. Národní divadlo - Národní 2, 110 00 - you probably won’t be able to go to the theater, but the whole street Národní is still pretty nice, if you continue to the river, you’ll see islands 
-14. Střelecký ostrov - it is an island next to the National Theater - it is a chill place just like the other islands 
-15. Tančící dům - Jiráskovo nám. 1981/6, 120 00 - crazy architecture of a modern building, it means dancing house 
-16. Nový svět - Nový Svět 2, 118 00 Praha 1-Hradčany - this whole area is interesting historic and almost no tourist (when I was there), it is not that far away, it is close to the Prague castle 
+1. **Knedlín** - Národní 115/24, 110 00 (Nové Město) - If we skip the details, this is the modern version of tradintional Czech dish. The typical one (from grandma) would be with apricot, strawberries, blueberries, or plums, here you can find many interestin variations and I recommend this place because the food is good and the overall experience is worth it. 
+2. **Kolacherie** - 1) Hybernské ulice 4, close to Náměstí republiky, 2) crosspoint of V Tůních and Na Rybníčku, close to I.P. Pavlova - Cakes and selected coffee. „Koláč“ (sg.) „koláče“ (pl.) is traditional Czech sweet dish. The most typical one are with 1) poppy seeds, 2) plum jam, 3) curd cheese called „tvaroh“ (tvaroh is basically super fresh cheese with no fermentation) which is very common in Czech sweet dishes (also possible to buy in supermarkets either dry or wet-like-yogurt). This café offers you variety of koláče e.g. tvaroh with raspberry, but also non-traditional with pistachio and chocolate. Furthermore, they offer also savoury, which used to be common many decades ago, but Czech people do not acknowledge them. 
+3. **Boat ride** - [pid.cz/en/ferries/](https://pid.cz/en/ferries/) - buy a ticket with PID for public transport and this is included 
+4. **Kino Lucerna** - Vodičkova 704 /36, 110 00 (Nové Město) - in my opinion this is an extraordinary place, just go through, see the horse on the ceiling and enjoy unusual architecture. (It’s been open since 1909) 
+5. **Pasáž Koruna** - Václavské nám. 846/1, 110 00 Můstek - another passage, but Lucerna is better 
+6. **Pasáž Světozor** - Pasáž Světozor, 110 00 Nové Město - another passage. with SVĚTOZOR, it is a cinema but also pastalería, cake shop, you should be able to eneter a park 
+7. **Františkánská Zahrada** - Vodičkova, 110 00 Nové Město - it is a nice place, there is café and a bar, you enter this through Pasáž Světozor 
+8. **Valdštejnská zahrada** - Letenská 123/4, 118 00 Malá Strana - this place is lit, it is beautfiul and if you should spend only 10 minutes in the park, it is worth it 
+9. **Franz Kafka** - Otočná Hlava - "K" - Socha Davida Černého - Charvátova, 110 00 Nové Město - Many tourists go to see the famous Franz Kafka’s head. It is a huge monument.
+10. **Národní technické muzeum** - Kostelní 1320/42, 170 00 Praha 7-Letná - you probably will not have time, but this is a technical museum and it is really cool.  
+11. **Strossmayerovo náměstí** - this whole place looks good and not many tourists in there, you can walk up and see some of the shops 
+12. **Bageterie Boulevard** - anywhere - this is not a typical Czech dish, but it is Czech fastfood and I think it is really good. For lunch/dinner, get the whole menu which is a baguette, patatas and ice tea. Before you order, ask them what is the baguette of the day, it is cheaper, but not that much, order what you like, but it is a tip 
+13. **Národní divadlo** - Národní 2, 110 00 - you probably won’t be able to go to the theater, but the whole street Národní is still pretty nice, if you continue to the river, you’ll see islands 
+14. **Střelecký ostrov** - it is an island next to the National Theater - it is a chill place just like the other islands 
+15. **Tančící dům** - Jiráskovo nám. 1981/6, 120 00 - crazy architecture of a modern building, it means dancing house 
+16. **Nový svět** - Nový Svět 2, 118 00 Praha 1-Hradčany - this whole area is interesting historic and almost no tourist (when I was there), it is not that far away, it is close to the Prague castle 
 17. Petřínské sady - Petřínské sady 633, 118 00 Praha 1-Malá Strana - I don’t think you’ll have time for parks, however, if you want to see the whole Prague… 
 18. Pražský metronom - nábř. E. Beneše, 118 00 Praha 7-Letná, Česko - it is kinda extraordinary, again, nice view, random piece of architecture, during summer there is also techno party, I dont know ow about now 
 19. Vzorkovna Dog BAR - Národní 339/11, 110 00 Staré Město -  I think this club is great. It is under the ground and many Erasmus students go there 
@@ -202,8 +202,8 @@ Jmenuji se… - ymenuyi se… - my name is…
 ### Phrases with german pronunciation (everyone speaks English, but I think it is always useful to know somehting)
 
 1. Acute above a,e,i,o,u (or °, ů) means that the vowel is longer. For example yeet is long, dill is short
-2. „j“ is pronunced like „y“ e.g. „yeet“
-3. Accent is always on the first syllable. 
+2. `„j“` is pronunced like „y“ e.g. „yeet“
+3. Accent is always on the first syllable.
 4. „S" is like „s" in "solve", always
 5. „Z" is like Z in „zip", always
 6. „c" is like Z in „zehn", always
