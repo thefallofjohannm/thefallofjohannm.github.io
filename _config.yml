@@ -19,25 +19,28 @@ sidebar:
     link: /about/
   - name: References
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: /references/
+    link: /articles/
   - name: Music
     icon: <i class="fa-solid fa-pencil"></i>
-    link: /music/
+    link: /notes/
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
-    link: /poetry/
+    link: /references/
+  - name: Poetry
+    icon: <i class="fa-solid fa-paper-plane"></i>
+    link: /references/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
-    link: https://github.com/thefallofjohannm/thefallofjohannm.github.io/
+    link: https://github.com/MatejHosek/MatejHosek.github.io/
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
 
 
 collections:
-  posts:
+  notes:
     output: true
-  poems:
+  articles:
     output: true
 
 
