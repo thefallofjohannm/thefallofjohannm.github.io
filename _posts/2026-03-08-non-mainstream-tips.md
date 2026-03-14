@@ -228,25 +228,26 @@ search in [visitczechia.com](visitczechia.com). There you will find seasonal eve
 7. "Š“ is like "SHould"
 8. "K" is "C", e.g. "caro"
 
-Dobrý den - Dobrí den - hello (good day, formal)
-Na shledanou/nashle - na sjledanou/nasjle - bye (formal)
-prosím - prosim - please
-děkuji - dyekuyi - thank you
-pivo - pivo - beer
-voda - voda - water
-jedekrát - yedencrat - once
-dvakrát - dvacrat - twice
-hotovost - hotovost - but read the H like English „have“ - cash
-karta - carta - card
-
-budu platit kartou - budu platyit cartou - I will pay with card
-prosím jedenkrát pivo/vodu/kofolu - prosim jedencrat pivo/vodu/cofolu - please one time beer/water/kofola
-Kolik to stojí? - colic to stoyi - how much is it?
-prosím kde je kofola - prosim cde ye cofola - please where is kofola
-Jedeme z Mariboru - yedeme z Mariboru - we are going from Maribor
-
-Jsme Erasmus studenti - ysme erasmus studentji - we are erasmus students
-Jmenuji se… - ymenuyi se… - my name is…
+| Phrase                            | Pronunciation                         | Meaning                           |
+| :-------------------------------- | :------------------------------------ | :-------------------------------- |
+| Dobrý den                         | Dobrí den                             | hello (good day, formal)          |
+| Na shledanou/nashle               | na sjledanou / nasjle                 | bye (formal)                      |
+| prosím                            | prosim                                | please                            |
+| děkuji                            | dyekuyi                               | thank you                         |
+| pivo                              | pivo                                  | beer                              |
+| voda                              | voda                                  | water                             |
+| jedekrát                          | yedencrat                             | once                              |
+| dvakrát                           | dvacrat                               | twice                             |
+| hotovost                          | hotovost (read H like English “have”) | cash                              |
+| karta                             | carta                                 | card                              |
+| budu platit kartou                | budu platyit cartou                   | I will pay with card              |
+| prosím jedenkrát pivo/vodu/kofolu | prosim jedencrat pivo/vodu/cofolu     | please one time beer/water/kofola |
+| Kolik to stojí?                   | colic to stoyi                        | how much is it?                   |
+| prosím kde je kofola              | prosim cde ye cofola                  | please where is kofola            |
+| Jedeme z Mariboru                 | yedeme z Mariboru                     | we are going from Maribor         |
+| Jsme Erasmus studenti             | ysme erasmus studentji                | we are erasmus students           |
+| Jmenuji se…                       | ymenuyi se…                           | my name is…                       |
+| Na zdraví                         | na sdravie                            | cheers                            |
 
 
 ### Phrases with german pronunciation (everyone speaks English, but I think it is always useful to know somehting)
