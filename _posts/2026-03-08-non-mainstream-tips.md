@@ -12,7 +12,57 @@ category: Povídky
 {:.no_toc}
 ## WELCOME TO CZECHIA!
 
-First of all, download IDOS, this is for public transport in Czechia, you can input address and it finds you a way. Of course, you can also use apple maps, google maps etc. but this gives you more freedom when choosing the transport. Also, it is recommendable to use Mapy.cz, this app also has the bus stations etc. in there, but it is not necessary, just useful. Get a 3-day ticket or one-week ticket, it should come really cheap in the end. The ticket machines are always in a metro station. Also, if you're looking for something more outside of Prague (I might amplify my collection one day), search in visitczechia.cz
+First of all, download [IDOS](https://idos.cz/vlakyautobusymhdvse/spojeni/), this is for public transport in Czechia, 
+you can input an address, and it finds the connections. 
+Of course, you can also use Apple Maps, Google Maps etc. but IDOS gives you more freedom when choosing the transport, 
+and also shows you more reasonable connections between cities (in my opinion). Also, it is recommendable to use [Mapy.cz](https://mapy.cz) 
+(not only in Czechia), this app also shows the bus, tram, metro etc. stations, and allows you to download a region map for an off-line use.
+Furtheremore, the routes for hiking are excellently managed in the app. It is not necessary, but really good, I recommend.
+In Prague, get a 3-day ticket or one-month ticket, it should come really cheap in the end, cheaper than repeated ticket purchase. 
+The ticket machines are always in a metro station, and nowadays commonly inside trams and buses. For on-line purchase you can use 
+an app [PID lítačka](https://pidlitacka.cz/cs)
+
+
+Also, if you're looking for something more outside of Prague (I might amplify my 
+collection one day), search in [visitczechia.cz](visitczechia.cz).
+
+
+
+
+
+## Transportation
+
+First of all, download [IDOS](https://idos.cz/vlakyautobusymhdvse/spojeni/). IDOS is the perfect tool for finding connections 
+within a city. It is possible to start just with __your location__ and  __address__ as your final destination. It will search for the nearest stations
+(bus, tram, train, boat...) and then the quickest route. You can check the length and duration of the route, and you can also
+display the map to see, what you will pass through and where the stations are. Furthermore, IDOS allows you to buy tickets in the 
+app. Finally, this app is especially useful if you travel within the whole country as it can search for connections from one 
+city to another city, from a city to a village; or even from one country to another country (e.g. a trip to Berlin, Graz, Gdansk, 
+Budapest, Bratislava etc.). It mostly works in other countries too, but mainly for international trains and buses, probably 
+not that well for local public transport.
+
+I highly recommend downloading [Mapy.cz](https://mapy.cz). While it is just another app for maps, it shows all the stations
+very clearly and it is impossible to get lost or not to find where a bus, tram, or boat departures from. The numbers of houses
+or buildings are displayed too, which I believe it is fairly pratical. It is also possible 
+to download a region map for an off-line use. The biggest highlight of this app is the hiking routes which are excellently 
+managed in Mapy.cz. The app works really well outside of Czechia too, so I recommend keeping it after this trip.
+
+For Prague only, an app [PID lítačka](https://pidlitacka.cz/cs) is generally recommended. I am personally not the biggest fan,
+however I should mention it as it facilites on-line ticket purchase. Otherwise the ticket machines are in every metro station, 
+and currently in most of the trams and buses. Ticket inspections are common, so do not try to ride without a ticket.
+
+When buying a ticket for public transport, I personally recommend buying a 3-day ticket or 1-month ticket (coupon) as it 
+generally comes cheaper than buying several 30-minute tickets. This applies especially for students who can prove that 
+they study (usually ISIC card).
+
+IDOS, Mapy.cz or PID lítačka are not necessary, you can use Apple Maps or Google Maps if it works better for you, but 
+I highly recommend getting at least IDOS as it is super easy to use, allows you more freedom when choosing the transport
+and also makes planning much easier as you can __swipe right__ to see when the next tram is coming (e.g. you need to take
+metro --> metro --> tram, and you know you will not take the tram immediately, so you just swipe the tram in the app to see,
+that it goes in next 5 minutes, 10 minutes, 15 minutes etc.).
+
+Finally, if you're looking for something more outside of Prague (I might amplify my  collection one day), 
+search in [visitczechia.com](visitczechia.com). There you will find seasonal events, hiking destinations and many more.
 
 1. **Knedlín** - Národní 115/24, 110 00 (Nové Město) - If we skip the details, this is the modern version of tradintional Czech dish. The typical one (from grandma) would be with apricot, strawberries, blueberries, or plums, here you can find many interestin variations and I recommend this place because the food is good and the overall experience is worth it. 
 2. **Kolacherie** - 1) Hybernské ulice 4, close to Náměstí republiky, 2) crosspoint of V Tůních and Na Rybníčku, close to I.P. Pavlova - Cakes and selected coffee. „Koláč“ (sg.) „koláče“ (pl.) is traditional Czech sweet dish. The most typical one are with 1) poppy seeds, 2) plum jam, 3) curd cheese called „tvaroh“ (tvaroh is basically super fresh cheese with no fermentation) which is very common in Czech sweet dishes (also possible to buy in supermarkets either dry or wet-like-yogurt). This café offers you variety of koláče e.g. tvaroh with raspberry, but also non-traditional with pistachio and chocolate. Furthermore, they offer also savoury, which used to be common many decades ago, but Czech people do not acknowledge them. 
@@ -30,58 +80,57 @@ First of all, download IDOS, this is for public transport in Czechia, you can in
 14. **Střelecký ostrov** - it is an island next to the National Theater - it is a chill place just like the other islands 
 15. **Tančící dům** - Jiráskovo nám. 1981/6, 120 00 - crazy architecture of a modern building, it means dancing house 
 16. **Nový svět** - Nový Svět 2, 118 00 Praha 1-Hradčany - this whole area is interesting historic and almost no tourist (when I was there), it is not that far away, it is close to the Prague castle 
-17. Petřínské sady - Petřínské sady 633, 118 00 Praha 1-Malá Strana - I don’t think you’ll have time for parks, however, if you want to see the whole Prague… 
-18. Pražský metronom - nábř. E. Beneše, 118 00 Praha 7-Letná, Česko - it is kinda extraordinary, again, nice view, random piece of architecture, during summer there is also techno party, I dont know ow about now 
-19. Vzorkovna Dog BAR - Národní 339/11, 110 00 Staré Město -  I think this club is great. It is under the ground and many Erasmus students go there 
-20. Kellyxír - alchymistická hospůdka - Jánský vršek 312, 118 00 Malá Strana - you will get a drink in a alchymist pub, you’ll get it in a beaker, or any of the chemical glass and also magical steam will be on it. Connected to that is also Alchemy Museum 
-21. Sex Machines Museum - Melantrichova 476 /18, 110 00 Staré Město - rather extraordinary museum in the old town 
-22. Vyšehrad - V Pevnosti 159/5b, 128 00 Praha 2-Vyšehrad - I think you will go there anyway, but in this place there used to be a castle. Very important place for the legends of the beginning of Czechia. Nowadays there is a really nice park on the top of a rock, amazing views, interesting catedral and a graveyard where are mostly famous people 
-23. Divoká šárka - it’s nature in the city (not actually in the city), huge Rocks, nice atmosphere and you dont have to leave the Prague 
-24. Mazelab - Československé armády 729/28, 160 00 Praha 6-Bubeneč - amazing coffee and café. Get filtred coffee. Cards only. 
-25. Pizza Einstein - there are some locations, you have to have ISIC, the students card, and then you get 1+1 offer. Save money on food 
-26. Letohrádek Hvězda - Obora Hvězda, 161 00 Praha 6 - it is an interesting place and interesting architecture, but you probably will not have time for it 
-27.  UGO - vegan fast food, if you have ISIC, then you get a good discount 
-28. Žlutá pumpa - Belgická 539/11, 120 00 Vinohrady - TexMex delicious food, go there for lunch, you’ll get the lunch menu 
-29. Grébovka (Havlíčkovy sady) - Havlíčkovy sady, 120 00 Praha 2-Vinohrady - a really nice park, interesting architecture, great views, but most importantly, there are artificial caves that are really cool, and you can  freely go through 
-30. Trhy Jiřího z Poděbrad - station Jiřího z Poděbrad - probably will not appreciate that much since you dont live in Prague, but it is a market place, they should sell… fruits, wine, some interesting food etc. 
-31. Trhy I. P. Pavlova - station I. P. Pavlova - markets like the previous one 
-32. Muzeum iluzí - Staroměstské nám. 480/24, 110 00 - museum of illusion, it's fun 
-33. Betlémská kaple - Betlémské nám. 255/4, 110 00 - historical place connected to important reformator of religion Jan Hus in old Czechia, also one of the oldest buildings  
-34. Stromovka - a huge park with amazing gardens, lakes and generally really good atmosphere 
-35. Zahrady pod Pražským hradem - 14, Valdštejnská 158, Malá Strana, 110 00 Praha 1 - probably the finest most fancy place, gardens bellow the Prague Castle  
-36. Dox - Poupětova 1, 170 00 Praha 7-Holešovice - art gallery recommended by many 
-37. Kunsthalle - Klárov 5, Malá Strana 118 00 - alao art gallery and in many cases, I’ve been there, it was also interactive 
-38. Zámek Troja - U Trojskeho zamku 4/1 - beautiful place, might be a little tricky to get there, probably inside is also a little art exhibition; it's not a castle it's more of a villa, really stunning piece pf architecture 
-39. Olšanské hřbitovy - vinohradslá 1835/153 - I especially recomend this one. It is a huge graveyard, but really beautiful, it's more like a park and I think it is worth the visit.  
-40. Zahrada Černínského paláce - Zahrada Černínského paláce, Hradčany - beautiful gardens 
-41. Masarykova Vyhlídka - Královská obora, 118 00 
-42. Královská obora - It’s recomendabel to go through this one on the way to Nový svět 
-43. Náplavka - starting by the Dancing house to the south, it's probably better to go there during warmer months, however, currently the place is full of cafes and bars, the boats are bars as well. Sometimes during the night there are parties on the boats. 
-44. Lennon Wall - Velkopřevorské náměstí - a Wall dedicated to Lennon, streetart, poems  etc., right next to it there is a café and a little art exhibition where some artists sell their products (together with Lennon-wall products) 
-45. Palac adria - Jungmannova 36/31 - architectonical monument, built in 1924, rondocubism, it features a passage and it appearance is stunning  
-46. Divadlo viola - Narodni 7/1011 - architectural monument 
-47. Louvre - Národní 22 - it is rather a fancy Café, so it might be a little pricier, however, the dessert I had there (pistachio) was delicious. They also serve traditional cuisines. 
-48. Chocotopia - V oblouku 728, 252 43, Průhonice - tematic, entertainment park in the style of Willy Wonka 
-49. Strahov library - Strahovské nádvoří 132/1 - historical monk library. Built in 1143. 
-50. Hlavní pošta - Jindrišská 14 - it is a post office but the inside of the building is really cool (given, again, that it is a regular post office), it's like 300 m from the main train station, also it’s unsurprisingly full of people, so maybe not the best place to pick up or send mails. 
-51. The smallest house in Prague - Anežská ulice 4  
-52. Pivovar buebnec - Good beer, good food (traditional and non-traditional (burgers)), a little bit outside of the center, but a least not many people
-53. Clam-Gallas Palace - Husova 158/20, 110 00 Staré Město - a baroque palace in the old town of Prague, inside there is a museum, also posible to rent for private events 
-54. Rotunda sv Martina - K Rotundě 100, 128 00 Praha 2-Vyšehrad - oldest building in Prague, it is on the way to Vyšehrad 
-55. Kostel panny Marie pod řetězem - Lázeňská 285, 118 00 Malá Strana - architectonical monument 
-56. Pomnik Franze Kafky - Dušní, 110 00 Staré Město - this is a memorial, a statue, of a well known writer Franz Kafka, who was born in Prague and lived here almost all of his life. Where the statue stands now, there used to be a house where Kafka lived. 
-57. Letohrádek královny Anny - Mariánské hradby 52/1, 118 00 Praha 1-Hradčany - a summer castle built in Renesance style. Around the castle, there is a beautiful park. This complex served for relaxation to  Ferdinand I Habsburg  
-58. Cukrárna Blagova - Lublaňská 1001/11 - Good low-price brunch. Egg Benedict, English breakfast or pancakes for less then 10 Euros 
-59. National maternity hospital - Apolinářská 441/18, Praha 2 - this hospital was built in 1865. While it may not seem like a vacation place, it's important to highlight that it is the building itself that is worth seeing. It looks slightly like Hogwarts School. To add the special effects, visit it at night. But it is alao possible to go inside without violating any hospital law. There is a little cafe. The interior is gothic. There is a chapel worth visiting 
-60. Pepík uhoř, Pepík the Eel - Spálená 76/14 - https://www.kudyznudy.cz/aktivity/uhor-pepik-v-secesni-budove-ceske-pojistovny-v-pra - in the bulding of the Czech Insurance company you can see a live eel swimming in a beautiful Art Noveau building  
-61. Creme de la creme - Husova 231/12, 110 00 Praha - extremely good ice cream and very cheap, for 4 scoops in total I paid 138 kč. It's important to go to this branch, there are no queues, then you can walk to Mariánské náměstí (100 m, no more than that) and sit there at the public coffee tables. Another at Dejvická street offers a walk afterward to Metronome and to a few lookout places that are situated left from metronome (if metronome is behind your back). These places belong to the best ones to see Prague as the Sun is setting. Then you can continue right to the center going to the Old Town Square. There are more Creme de la creme in Prague, but these two are not crowded and well situated. Little tip: Ask for small ice cream and say you want two flavors 
-62. Dum porcelánu + tea house - Jugoslávská 567/16 - are you interested in Czech dishes? From plates, to cups, to glasses and little decorated objects? While it is not museum and definitely not complete collection, this place offers many of the best Czech producers. One of the most known among Czech people is „Cibulák“ roughly translated to „Onion-er“. White porcelain and blue ornaments. This is not a museum, it is a shop. It has 3 floors and there is a little terrace in the 3rd floor connected to a tea house. Good for summer pause. 
-63. Jiřího z Poděbrad - during most of the year markets are present with various food and wine, especially good for autumn as „burčák“ (= not finished wine, sweet and low in alcohol) is served. Also there are parks nearby. 
-64. Sauna on boat - during winter it is possible to visit sauna that is on a boat, which means you can jump directly to Vltava after hot Sauna. There are several of them, one of them is on the tram stop Výtoň. Bear in mind it is important to make a reservation first. 
-65. Myšák cukrárna - luxorious
-66. Kolektor
-67. Balt kino - Blahnikova 575/1 130 00 Praha 3 - this extraordinary cinema offers „everything, that is not allowed in a classical synema". The main part being serving of rums for a movie. In this cinema it is possible to watch legendary/famous bad movies while ordering variable liquors and drinks with food.
-68. Umbrella man - Odborů 1343/1, Praha 2 - Look up the skies, there you will see a man hanging on a wire with his umbrella, there's also a woman in the next street. Mosaic house has tiny mushrooms up the roof
+17. **Petřínské sady** - Petřínské sady 633, 118 00 Praha 1-Malá Strana - I don’t think you’ll have time for parks, however, if you want to see the whole Prague… 
+18. **Pražský metronom** - nábř. E. Beneše, 118 00 Praha 7-Letná, Česko - it is kinda extraordinary, again, nice view, random piece of architecture, during summer there is also techno party, I dont know ow about now 
+19. **Vzorkovna Dog BAR** - Národní 339/11, 110 00 Staré Město -  I think this club is great. It is under the ground and many Erasmus students go there 
+20. **Kellyxír** - alchymistická hospůdka - Jánský vršek 312, 118 00 Malá Strana - you will get a drink in a alchymist pub, you’ll get it in a beaker, or any of the chemical glass and also magical steam will be on it. Connected to that is also Alchemy Museum 
+21. **Sex Machines Museum** - Melantrichova 476 /18, 110 00 Staré Město - rather extraordinary museum in the old town 
+22. **Vyšehrad** - V Pevnosti 159/5b, 128 00 Praha 2-Vyšehrad - I think you will go there anyway, but in this place there used to be a castle. Very important place for the legends of the beginning of Czechia. Nowadays there is a really nice park on the top of a rock, amazing views, interesting catedral and a graveyard where are mostly famous people 
+23. **Divoká šárka** - it’s nature in the city (not actually in the city), huge Rocks, nice atmosphere and you dont have to leave the Prague 
+24. **Mazelab** - Československé armády 729/28, 160 00 Praha 6-Bubeneč - amazing coffee and café. Get filtred coffee. Cards only. 
+25. **Pizza Einstein** - 1) Rumunská 256/25, Praha 2, 2) Šmeralova 137/3, Praha 6 - you have to have ISIC, the students card, and then you get 1+1 offer. For non-students, the pizza is still worth it.
+26. **Letohrádek Hvězda** - Obora Hvězda, 161 00 Praha 6 - it is an interesting place and interesting architecture, but you probably will not have time for it 
+27. **UGO** - healthy fast food chain (Buddha bowls, salads, fruit drinks, wraps...) if you have ISIC, you get a good discount.
+28. **Žlutá pumpa** - Belgická 539/11, 120 00 Vinohrady - TexMex delicious food, go there for lunch, you’ll get the lunch menu with nachos and soup
+29. **Grébovka (Havlíčkovy sady)** - Havlíčkovy sady, 120 00 Praha 2-Vinohrady - a really nice park, interesting architecture, great views, but most importantly, there are artificial caves that are really cool, and you can  freely go through 
+30. **Trhy Jiřího z Poděbrad** - metro station Jiřího z Poděbrad - probably will not appreciate that much since you don't live in Prague, but it is a market place, they should sell fruits, wine, some interesting food and so on. Especially good in autumn as __burčák__ (= not finished wine, sweet and low in alcohol) is served. There are parks nearby and **Žižkovská věž**.
+31. **Trhy I. P. Pavlova** - station I. P. Pavlova, Tylovo náměstí - markets like the previous one
+32. **Muzeum iluzí** - Staroměstské nám. 480/24, 110 00 - museum of illusion, it's fun 
+33. **Betlémská kaple** - Betlémské nám. 255/4, 110 00 - historical place connected to important reformator of religion Jan Hus in old Czechia, also one of the oldest buildings  
+34. **Stromovka** - a huge park with amazing gardens, lakes and generally really good atmosphere 
+35. **Zahrady pod Pražským hradem** - 14, Valdštejnská 158, Malá Strana, 110 00 Praha 1 - probably the finest most fancy place, gardens bellow the Prague Castle  
+36. **Dox** - Poupětova 1, 170 00 Praha 7-Holešovice - art gallery recommended by many 
+37. **Kunsthalle** - Klárov 5, Malá Strana 118 00 - alao art gallery and in many cases, I’ve been there, it was also interactive 
+38. **Zámek Troja** - U Trojskeho zamku 4/1 - beautiful place, might be a little tricky to get there, probably inside is also a little art exhibition; it's not a castle it's more of a villa, really stunning piece pf architecture 
+39. **Olšanské hřbitovy** - vinohradslá 1835/153 - I especially recomend this one. It is a huge graveyard, but really beautiful, it's more like a park and I think it is worth the visit.  
+40. **Zahrada Černínského paláce** - Zahrada Černínského paláce, Hradčany - beautiful gardens 
+41. **Masarykova Vyhlídka** - Královská obora, 118 00 
+42. **Královská obora** - It’s recomendabel to go through this one on the way to Nový svět 
+43. **Náplavka** - starting by the Dancing house to the south, it's probably better to go there during warmer months, however, currently the place is full of cafes and bars, the boats are bars as well. Sometimes during the night there are parties on the boats. 
+44. **Lennon Wall** - Velkopřevorské náměstí - a Wall dedicated to Lennon, streetart, poems  etc., right next to it there is a café and a little art exhibition where some artists sell their products (together with Lennon-wall products) 
+45. **Palac Adria** - Jungmannova 36/31 - architectonical monument, built in 1924, rondocubism, it features a passage and it appearance is stunning. Fun fact: This builfing was build by an Italian insurance company. If you come to the middle, you will see mosaics on the floor. What can you see? One of those pictures looks like a house on fire. The idea behind these pictures was to show that this company will protect you from all the possible bad luck.
+46. **Divadlo viola** - Narodni 7/1011 - architectural monument 
+47. **Louvre** - Národní 22 - it is rather a fancy Café, so it might be a little pricier, however, the dessert I had there (pistachio) was delicious. They also serve traditional cuisines. 
+48. **Chocotopia** - V oblouku 728, 252 43, Průhonice - tematic, entertainment park in the style of Willy Wonka 
+49. **Strahov library** - Strahovské nádvoří 132/1 - historical monk library. Built in 1143. 
+50. **Hlavní pošta** - Jindrišská 14 - it is a post office but the inside of the building is really cool (given, again, that it is a regular post office), it's like 300 m from the main train station, also it’s unsurprisingly full of people, so maybe not the best place to pick up or send mails. 
+51. **The smallest house in Prague** - Anežská ulice 4 
+52. **Pivovar Bubeneč** - Bubenečská 321/33, Praha 6 - Good beer, good food (traditional and non-traditional (e.g. burgers)), a little bit outside of the center, but a least not many people
+53. **Clam-Gallas Palace** - Husova 158/20, 110 00 Staré Město - a baroque palace in the old town of Prague, inside there is a museum, also posible to rent for private events 
+54. **Rotunda sv. Martina** - K Rotundě 100, 128 00 Praha 2-Vyšehrad - oldest building in Prague, it is on the way to Vyšehrad 
+55. **Kostel panny Marie pod řetězem** - Lázeňská 285, 118 00 Malá Strana - architectonical monument 
+56. **Pomník Franze Kafky** - Dušní, 110 00 Staré Město - this is a memorial, a statue, of a well known writer Franz Kafka, who was born in Prague and lived here almost all of his life. Where the statue stands now, there used to be a house where Kafka lived. 
+57. **Letohrádek královny Anny** - Mariánské hradby 52/1, 118 00 Praha 1-Hradčany - a summer castle built in Renesance style. Around the castle, there is a beautiful park. This complex served for relaxation to  Ferdinand I Habsburg  
+58. **Cukrárna Blagova** - Lublaňská 1001/11 - Good low-price brunch. Egg Benedict, English breakfast or pancakes for less than 10 Euros 
+59. **National maternity hospital** - Apolinářská 441/18, Praha 2 - this hospital was built in 1865. While it may not seem like a vacation place, it's important to highlight that it is the building itself that is worth seeing. It looks slightly like Hogwarts School. To add the special effects, visit it at night. But it is alao possible to go inside without violating any hospital law. There is a little cafe. The interior is gothic. There is a chapel worth visiting 
+60. **Pepík uhoř, Pepík the Eel** - Spálená 76/14 - https://www.kudyznudy.cz/aktivity/uhor-pepik-v-secesni-budove-ceske-pojistovny-v-pra - in the bulding of the Czech Insurance company you can see a live eel swimming in a beautiful Art Noveau building  
+61. **Crème de la crème** - 1) Husova 231/12, Praha 2, 2) Pod Kaštany 236/2, Praha 6 - extremely good ice cream and very cheap, for 4 scoops in total I paid 138 kč. It's important to go to this branch, there are no queues, then you can walk to Mariánské náměstí (100 m, no more than that) and sit there at the public coffee tables. Another at Pod kaštany street offers a walk afterward to Metronome and to a few lookout places that are situated left and right from the metronome. These places belong to the best ones to see Prague as the Sun is setting. Then you can continue right to the center going to the Old Town Square. There are more Creme de la creme in Prague, but these two are not crowded and well situated. Little tip: Ask for small ice cream and say you want two flavors 
+62. **Dům porcelánu + tea house** - Jugoslávská 567/16 - are you interested in Czech dishes? From plates, to cups, to glasses and little decorated objects? While it is not museum and definitely not complete collection, this place offers many of the best Czech producers. One of the most known among Czech people is „Cibulák“ roughly translated to „Onion-er“. White porcelain and blue ornaments. This is not a museum, it is a shop. It has 3 floors and there is a little terrace in the 3rd floor connected to a tea house. Good for summer pause. 
+63. **Sauna on boat** - during winter it is possible to visit sauna that is on a boat, which means you can jump directly to Vltava after hot Sauna. There are several of them, one of them is on the tram stop Výtoň. Bear in mind it is important to make a reservation first. 
+64. **Myšák cukrárna** - Vodičkova 710/31 - This is a luxorious café that offers luxorious desserts. Althought it doesn't belong to a cheap category, I think it is a perfect __sweet dot__ for your trip. The offer both traditional Czech desserts (větrník, špička, věneček, and more) and non-traditional. 
+65. **Kolektor** - Dukelských Hrdinů 530/47, Praha 7 - Café and bar in one situated in Holešovice. It is also connected to a theater Divadlo hrdinů. As this place is pretty big for a usuall café, it is good for big groups.
+66. **Balt kino** - Blahnikova 575/1, Praha 3 - This extraordinary cinema offers "everything, that is not allowed in a classical cinema". The main part being serving of rums for a movie. In this cinema it is possible to watch legendary/famous bad movies while ordering variable liquors and drinks with food.
+67. **Umbrella man** - Odborů 1343/1, Praha 2 - Look up the skies, there you will see a man hanging on a wire with his umbrella, there's also a woman in the next street. Mosaic house has tiny mushrooms up the roof.
 
 ### OUTSIDE OF PRAGUE
 1. Jezero Konetopy 
@@ -168,15 +217,16 @@ First of all, download IDOS, this is for public transport in Czechia, you can in
 - Birell - they make also nonalcoholic beer and many kinds of lemonade, my favorite is Malina-Limetka (raspberry-lime) - in supermarkets you find plenty of them
 
 
-### Phrases with spanish pronunciation (everyone speaks English, but I think it is always useful to know somehting)
+### Phrases with Spanish pronunciation (everyone speaks English, but I think it is always useful to know somehting)
 
 1. tílde means that the vowel is longer. For example yeet is long, dill is short
 2. „j“ is pronunced like „y“ eg „ayuda“
 3. „ch“ is „j“ eg „jamón“
-4. Accent is always on the first syllable. In spanish it is „hospiTAL“ in Czech it is „HOspital“
+4. Accent is always on the first syllable. In Spanish it is „hospiTAL“, in Czech it is „HOspital“
 5. "H" is read like english "Have, Head, Hat"
-6. "z" is like "Zone" 
-7. „Š“ is like "SHould"“
+6. "z" is like "Zoom" 
+7. "Š“ is like "SHould"
+8. "K" is "C", e.g. "caro"
 
 Dobrý den - Dobrí den - hello (good day, formal)
 Na shledanou/nashle - na sjledanou/nasjle - bye (formal)
@@ -201,12 +251,12 @@ Jmenuji se… - ymenuyi se… - my name is…
 
 ### Phrases with german pronunciation (everyone speaks English, but I think it is always useful to know somehting)
 
-1. Acute above a,e,i,o,u (or °, ů) means that the vowel is longer. For example yeet is long, dill is short
-2. `„j“` is pronunced like „y“ e.g. „yeet“
+1. Acute above a,e,i,o,u (or °, ů) means that the vowel is longer. For example yeet is long, dill is short. „í (Czech)“ = „ie ( German)“ 
+2. „j“ is pronounced like „y“ e.g. „yeet“
 3. Accent is always on the first syllable.
-4. „S" is like „s" in "solve", always
-5. „Z" is like Z in „zip", always
-6. „c" is like Z in „zehn", always
+4. „S" is like „s" in „solve", or „ss/ß", always
+5. „Z" is like „s" in „sondern", always
+6. „C" is like Z in „zehn", always
 7. Č = tsch
 8. Š = sch
 9. „Ž" something like „conJunction"
@@ -215,25 +265,24 @@ Jmenuji se… - ymenuyi se… - my name is…
 12. v = w
 
 
-| Phrase              | Pronunciation | Meaning                  |
-|:--------------------|:--------------|:-------------------------|
-| Dobrý den           | Dobrí den     | hello (good day, formal) |
-| Na shledanou/nashle | na s+ch (not š, „schloss“) schledanou (s+ch+ledanou)/naschle (na+s+chle) | bye (formal) |
-| prosím              | prosim        | please                   |
-| děkuji              | djekuji       | thank you                |
-| pivo                | pivo          | beer                     |
-| voda                | woda          | water                    |
-| jedekrát            | jedenkrat     | once                     |
-| dvakrát             | dvakrat       | twice                    |
-| hotovost            | hotovost      | cash                     |
-| karta               | karta         | card                     |
+| Phrase               | Pronunciation                                                             | Meaning                  |
+|:---------------------|:--------------------------------------------------------------------------|:-------------------------|
+| Dobrý den            | Dobrie den                                                                | hello (good day, formal) |
+| Na shledanou/nashle  | na s+ch (not š, not sch), schledanou (ss+ch+ledanou)/naschle (na+ss+chle) | bye (formal) |
+| prosím               | prossiem                                                                  | please                   |
+| děkuji               | djekuji                                                                   | thank you                |
+| pivo                 | pivo                                                                      | beer                     |
+| voda                 | woda                                                                      | water                    |
+| jedekrát             | jedenkrat                                                                 | once                     |
+| dvakrát              | dvakrat                                                                   | twice                    |
+| hotovost             | hotovost                                                                  | cash                     |
+| karta                | karta                                                                     | card                     |
+| budu platit kartou   | budu platjit kartou                                                       | I will pay with card     |
+| prosím jedenkrát pivo/vodu/kofolu | prossiem jedenkrat pivo/wodu/kofolu                                       | please one time beer/water/kofola |
+|Kolik to stojí? | kolik to sstojie                                                          | how much is it?|
+|prosím kde je kofola | prossim gde je kofola                                                     | please where is kofola| 
+|Jedeme z Mariboru | jedeme z Mariboru                                                         | we are going from Maribor |
+|Jsme Erasmus studenti | jssme erasmus sstudentji                                                  | we are erasmus students |
+| Jmenuji se… | jmenuji sse… | my name is…|
+| Na zdraví | na sdravie | prost|
 
-budu platit kartou - budu platjit kartou - I will pay with card
-prosím jedenkrát pivo/vodu/kofolu - prosim jedenkrat pivo/wodu/kofolu - please one time beer/water/kofola
-Kolik to stojí? - kolik to stoji - how much is it?
-prosím kde je kofola - prosim gde je kofola - please where is kofola
-Jedeme z Mariboru - jedeme z Mariboru - we are going from Maribor
-
-Jsme Erasmus studenti - jsme erasmus studentji - we are erasmus students
-Jmenuji se… - jmenuji se… - my name is…
-Na zdraví - na s dravi = prost
