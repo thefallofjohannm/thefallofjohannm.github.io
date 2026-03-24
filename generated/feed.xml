@@ -28,7 +28,7 @@ permalink: /feed.xml
 		<uri>{{- site.url -}}/</uri>
 	</author>
 	<generator>Jekyll v{{- jekyll.version -}}</generator>
-	<logo>{{- site.url -}}/assets/img/logo.jpg</logo>
+	<logo>{{- site.url -}}/assets/img/logo.png</logo>
 	<icon>{{- site.url -}}/favicon.ico</icon>
 	<rights type="text">Content is intelectual property of {{ site.author }} unless stated otherwise</rights>
 	{% for post in all_posts -%}
