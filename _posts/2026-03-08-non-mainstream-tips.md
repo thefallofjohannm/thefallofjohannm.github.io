@@ -12,28 +12,10 @@ category: Povídky
 {:.no_toc}
 ## WELCOME TO CZECHIA!
 
-First of all, download [IDOS](https://idos.cz/vlakyautobusymhdvse/spojeni/), this is for public transport in Czechia, 
-you can input an address, and it finds the connections. 
-Of course, you can also use Apple Maps, Google Maps etc. but IDOS gives you more freedom when choosing the transport, 
-and also shows you more reasonable connections between cities (in my opinion). Also, it is recommendable to use [Mapy.cz](https://mapy.cz) 
-(not only in Czechia), this app also shows the bus, tram, metro etc. stations, and allows you to download a region map for an off-line use.
-Furtheremore, the routes for hiking are excellently managed in the app. It is not necessary, but really good, I recommend.
-In Prague, get a 3-day ticket or one-month ticket, it should come really cheap in the end, cheaper than repeated ticket purchase. 
-The ticket machines are always in a metro station, and nowadays commonly inside trams and buses. For on-line purchase you can use 
-an app [PID lítačka](https://pidlitacka.cz/cs)
-
-
-Also, if you're looking for something more outside of Prague (I might amplify my 
-collection one day), search in [visitczechia.cz](visitczechia.cz).
-
-
-
-
-
-## Transportation
+### Transportation
 
 First of all, download [IDOS](https://idos.cz/vlakyautobusymhdvse/spojeni/). IDOS is the perfect tool for finding connections 
-within a city. It is possible to start just with __your location__ and  __address__ as your final destination. It will search for the nearest stations
+within a city. It is possible to start just with *your location* and  *address* as your final destination. It will search for the nearest stations
 (bus, tram, train, boat...) and then the quickest route. You can check the length and duration of the route, and you can also
 display the map to see, what you will pass through and where the stations are. Furthermore, IDOS allows you to buy tickets in the 
 app. Finally, this app is especially useful if you travel within the whole country as it can search for connections from one 
@@ -57,12 +39,14 @@ they study (usually ISIC card).
 
 IDOS, Mapy.cz or PID lítačka are not necessary, you can use Apple Maps or Google Maps if it works better for you, but 
 I highly recommend getting at least IDOS as it is super easy to use, allows you more freedom when choosing the transport
-and also makes planning much easier as you can __swipe right__ to see when the next tram is coming (e.g. you need to take
+and also makes planning much easier as you can *swipe right* to see when the next tram is coming (e.g. you need to take
 metro --> metro --> tram, and you know you will not take the tram immediately, so you just swipe the tram in the app to see,
 that it goes in next 5 minutes, 10 minutes, 15 minutes etc.).
 
 Finally, if you're looking for something more outside of Prague (I might amplify my  collection one day), 
 search in [visitczechia.com](visitczechia.com). There you will find seasonal events, hiking destinations and many more.
+
+### Non-mainstream tips
 
 1. **Knedlín** - Národní 115/24, 110 00 (Nové Město) - If we skip the details, this is the modern version of tradintional Czech dish. The typical one (from grandma) would be with apricot, strawberries, blueberries, or plums, here you can find many interestin variations and I recommend this place because the food is good and the overall experience is worth it. 
 2. **Kolacherie** - 1) Hybernské ulice 4, close to Náměstí republiky, 2) crosspoint of V Tůních and Na Rybníčku, close to I.P. Pavlova - Cakes and selected coffee. „Koláč“ (sg.) „koláče“ (pl.) is traditional Czech sweet dish. The most typical one are with 1) poppy seeds, 2) plum jam, 3) curd cheese called „tvaroh“ (tvaroh is basically super fresh cheese with no fermentation) which is very common in Czech sweet dishes (also possible to buy in supermarkets either dry or wet-like-yogurt). This café offers you variety of koláče e.g. tvaroh with raspberry, but also non-traditional with pistachio and chocolate. Furthermore, they offer also savoury, which used to be common many decades ago, but Czech people do not acknowledge them. 
