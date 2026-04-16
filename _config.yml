@@ -26,6 +26,9 @@ sidebar:
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /poetry/
+  - name: Prose
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /prose/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
     link: https://github.com/thefallofjohannm/thefallofjohannm.github.io
