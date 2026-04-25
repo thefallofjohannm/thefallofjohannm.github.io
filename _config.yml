@@ -18,19 +18,19 @@ sidebar:
     icon: <i class="fa-solid fa-carrot"></i>
     link: /about/
   - name: Music
-    icon: <i class="fa-regular fa-headphones"></i>
+    icon: <i class="fa-solid fa-radio"></i>
     link: /music/
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /poetry/
   - name: Literature
-    icon: <i class="fa-regular fa-keyboard"></i>
+    icon: <i class="fa-solid fa-print"></i>
     link: /literature/
   - name: Visual Art
     icon: <i class="fa-solid fa-feather-pointed"></i>
     link: /visualart/
   - name: Science
-    icon: <i class="fa-solid fa-fire"></i>
+    icon: <i class="fa-sharp fa-solid fa-fire"></i>
     link: /science/
   - name: Uncategorizable
     icon: <i class="fa-solid fa-blender"></i>
