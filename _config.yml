@@ -18,14 +18,23 @@ sidebar:
     icon: <i class="fa-solid fa-circle-info"></i>
     link: /about/
   - name: Music
-    icon: <i class="fa-solid fa-pencil"></i>
+    icon: <i class="fa-solid fa-headphones"></i>
     link: /music/
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /poetry/
-  - name: Prose
+  - name: Literature
     icon: <i class="fa-solid fa-newspaper"></i>
-    link: /prose/
+    link: /literature/
+  - name: Paintings
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /paintings/
+  - name: Science
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /science/
+  - name: Uncategorizable
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /uncategorizable/
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
