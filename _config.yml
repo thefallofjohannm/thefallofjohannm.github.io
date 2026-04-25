@@ -4,7 +4,7 @@ url: "https://thefallofjohannm.github.io"
 language: "cs-cz"
 
 logo: /assets/img/logo.png
-description: Spisy + hudba
+description: Já a můj blog.
 show_downloads: false
 color-scheme: dark
 date-format: "%d %B %Y"
@@ -17,9 +17,6 @@ sidebar:
   - name: About
     icon: <i class="fa-solid fa-circle-info"></i>
     link: /about/
-  - name: References
-    icon: <i class="fa-solid fa-newspaper"></i>
-    link: /references/
   - name: Music
     icon: <i class="fa-solid fa-pencil"></i>
     link: /music/
@@ -29,12 +26,15 @@ sidebar:
   - name: Prose
     icon: <i class="fa-solid fa-newspaper"></i>
     link: /prose/
-  - name: Repository
-    icon: <i class="fa-sharp fa-solid fa-code"></i>
-    link: https://github.com/thefallofjohannm/thefallofjohannm.github.io
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
+  - name: References
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /references/
+  - name: Repository
+    icon: <i class="fa-sharp fa-solid fa-code"></i>
+    link: https://github.com/thefallofjohannm/thefallofjohannm.github.io
 
 
 collections:
