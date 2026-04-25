@@ -15,31 +15,31 @@ sidebar:
     icon: <i class="fa-solid fa-home"></i>
     link: /
   - name: About
-    icon: <i class="fa-solid fa-circle-info"></i>
+    icon: <i class="fa-solid fa-carrot"></i>
     link: /about/
   - name: Music
-    icon: <i class="fa-solid fa-headphones"></i>
+    icon: <i class="fa-regular fa-headphones"></i>
     link: /music/
   - name: Poetry
     icon: <i class="fa-solid fa-paper-plane"></i>
     link: /poetry/
   - name: Literature
-    icon: <i class="fa-solid fa-newspaper"></i>
+    icon: <i class="fa-regular fa-keyboard"></i>
     link: /literature/
-  - name: Paintings
-    icon: <i class="fa-solid fa-newspaper"></i>
-    link: /paintings/
+  - name: Visual Art
+    icon: <i class="fa-solid fa-feather-pointed"></i>
+    link: /visualart/
   - name: Science
-    icon: <i class="fa-solid fa-newspaper"></i>
+    icon: <i class="fa-solid fa-fire"></i>
     link: /science/
   - name: Uncategorizable
-    icon: <i class="fa-solid fa-newspaper"></i>
+    icon: <i class="fa-solid fa-blender"></i>
     link: /uncategorizable/
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
   - name: References
-    icon: <i class="fa-solid fa-newspaper"></i>
+    icon: <i class="fa-solid fa-address-book"></i>
     link: /references/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
