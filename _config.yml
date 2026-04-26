@@ -18,7 +18,7 @@ sidebar:
     icon: <i class="fa-solid fa-carrot"></i>
     link: /about/
   - name: Music
-    icon: <i class="fa-solid fa-radio"></i>
+    icon: <i class="fa-solid fa-gramophone"></i>
     link: /music/
   - name: Poetry
     icon: <i class="fa-solid fa-feather-pointed"></i>
@@ -27,7 +27,7 @@ sidebar:
     icon: <i class="fa-solid fa-print"></i>
     link: /literature/
   - name: Visual Arts
-    icon: <i class="fa-solid fa-fire-extinguisher"></i>
+    icon: <i class="fa-solid fa-ruler-horizontal"></i>
     link: /visualarts/
   - name: Science
     icon: <i class="fa-sharp fa-solid fa-fire"></i>
