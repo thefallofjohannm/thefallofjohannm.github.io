@@ -27,7 +27,7 @@ sidebar:
     icon: <i class="fa-solid fa-print"></i>
     link: /literature/
   - name: Visual Arts
-    icon: <i class="fa-brands fa-padlet"></i>
+    icon: <i class="fa-solid fa-palette"></i>
     link: /visualarts/
   - name: Science
     icon: <i class="fa-sharp fa-solid fa-fire"></i>
