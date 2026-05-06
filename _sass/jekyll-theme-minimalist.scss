@@ -194,6 +194,22 @@ kbd {
   width: 50%;
 }
 
+.strip {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 0.5em;
+  margin: 0.5em 0;
+}
+
+.strip-line {
+  text-align: center;
+  flex: 1 1 0;
+  width: 0;
+}
+
 .references-display
   .spliter
     .spliter-item {
