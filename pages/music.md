@@ -6,4 +6,5 @@ permalink: "/music/"
 
 # Hudba
 
-WIP
+
+{% include category-list.html category="music" %}

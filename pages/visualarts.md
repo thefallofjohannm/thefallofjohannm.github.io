@@ -1,9 +1,9 @@
 ---
 title: "Visual arts"
 layout: default
-permalink: "/visualarts/"
+permalink: "/visual-arts/"
 ---
 
 # Visual arts
 
-WIP
+{% include category-list.html category="visual-arts" %}

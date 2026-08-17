@@ -1,9 +1,9 @@
 ---
-title: "Nncategorizable"
+title: "Uncategorizable"
 layout: default
 permalink: "/uncategorizable/"
 ---
 
 # Uncategorizable
 
-WIP
+{% include category-list.html category="misc" %}

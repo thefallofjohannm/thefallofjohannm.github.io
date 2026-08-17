@@ -6,4 +6,4 @@ permalink: "/literature/"
 
 # Literature
 
-WIP
+{% include category-list.html category="literature" %}

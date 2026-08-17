@@ -1,0 +1,21 @@
+<ul>
+{% for post in site.posts reversed %}
+    {% assign post_category = post.category | downcase %}
+    {% assign target_category = include.category | downcase %}
+    {% if post_category == target_category %}
+        {% if post.layout == "external_link" %}
+            <li>
+                <a href="{{- post.redirect_to -}}">{{- post.title -}}</a>
+                ({{- post.redirect_to
+                    | remove: "https://"
+                    | remove: "http://"
+                    | split: "/"
+                    | first
+                -}})
+            </li>
+        {% else %}
+            <li><a href="{{- post.url | relative_url -}}">{{- post.title -}}</a></li>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</ul>

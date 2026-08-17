@@ -6,4 +6,4 @@ permalink: "/science/"
 
 # Science
 
-WIP
+{% include category-list.html category="science" %}
