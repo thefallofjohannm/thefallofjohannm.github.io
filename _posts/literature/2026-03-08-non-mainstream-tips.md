@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 68 Non-Mainstreams Tips for Prague
-category: Povídky
+category: Literature
 ---
 
 {:toc}
