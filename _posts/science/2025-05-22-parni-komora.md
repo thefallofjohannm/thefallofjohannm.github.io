@@ -168,5 +168,5 @@ ___
 
 ## 5 Příloha
 
-![Schéma modelu parní komory](/assets/img/2025-05-22-parni_komora-layout.png)
+[![Schéma modelu parní komory](/assets/img/2025-05-22-parni_komora-layout.png)](/assets/img/2025-05-22-parni_komora-layout.png)
 
