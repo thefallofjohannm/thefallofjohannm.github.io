@@ -14,18 +14,7 @@
 			</h2>
 			<ul class="list" style="padding: 0;">
 				<li>
-					<b>
-						{%- if post.collection == "poems" -%}
-							<a href="/poetry/">Poetry</a>
-						{%- elsif post.collection == "posts" -%}
-							<a href="/posts/">Post</a>
-						{%- else -%}
-							{{- post.collection -}}
-						{%- endif -%}
-					</b>
-					{%- if post.category %}
-					: {{ post.category -}}
-					{% endif %}
+					<b>{{ post.category -}}</b>
 				</li>
 				<li><p class="date">{{ post.date | date: "%B %e, %Y" }}</p></li>
 			</ul>

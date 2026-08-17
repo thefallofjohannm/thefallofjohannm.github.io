@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slavic Vocabulary - Fake Friends
-category: Mics
+category: Misc
 ---
 
 {:toc}
