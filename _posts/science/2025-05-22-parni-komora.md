@@ -163,3 +163,10 @@ Tento problém i s řešením byl vizualizován v prostředí 3D Simulink. V té
 ## 4 Závěr
 
 Podařilo se parní komoru dobře a realisticky nasimulovat. Komoře trvá necelou hodinu, než se ustálí na teplotě 50 °C, což je reálný odhad toho, jak se ve wellness rozehřívá parní komora. Okolo 50 °C se pohybuje už dříve, ale s větší oscilací. Teplota osciluje opravdu jen lehce, ani ne o jeden stupeň nad a pod požadovanou teplotou. Fuzzy regulátor zvládá dobře regulovat teplotu i s pětisekundovým zpožděním v záznamu teploty. Tato teplota se ustálí a udrží se několik hodin, což je opět v souladu s tím, kolik hodin ve wellness bývá běžně parní komora v provozu. Při pohledu na ventil generátoru lze vidět, že se prudce zapíná a prudce vypíná. To velmi dobře simuluje reálné prostředí, kdy ve wellness je pára vstřikována do komory diskrétně a nikoliv konstantně. Výsledná vizualizace ukazuje změny barvy podle teploty s tím, že svítí prakticky pořád zeleně a pouze pokud teplota není v rozmezí 49,8 °C až 50,2 °C, tak změní barvu.
+
+___
+
+## 5 Příloha
+
+![Schéma modelu parní komory](/assets/img/2025-05-22-parni_komora-layout.png)
+
