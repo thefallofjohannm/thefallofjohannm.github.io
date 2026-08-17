@@ -5,7 +5,7 @@ gem "webrick", "~> 1.7"
 gem "jekyll", "~> 4.3.2"
 
 group :jekyll_plugins do
-  gem "jektex", "~> 0.1.1"
+  gem "jektex", "~> 0.2.0"
   gem "jekyll-tidy"
 end
 
