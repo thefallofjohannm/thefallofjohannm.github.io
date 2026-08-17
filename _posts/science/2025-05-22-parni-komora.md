@@ -20,52 +20,52 @@ category: Science
 
 ## 1 Zadání úlohy
 
-Je parní komora o objemu $V_{\text{komora}}$ a rozměrech $3 \times 3 \times 2,5 \, \text{m}$ a v ní je nutno udržovat teplotu $T_{\text{komora}}$ okolo 50 °C. K dispozici máme generátor páry Steam Generator CD 22.5 Compact (viz odkaz níže), který má výkon $P_{\text{generator}}$ 22.5 kW. Během tohoto procesu jsou i nějaké tepelné ztráty do okolí. Pro zjednodušení, parní komora je sestavena z kachliček o tloušťce $d_{\text{kachlička}}$ 8 mm, které jsou nalepeny na izolaci XPS. Podrobné informace o materiálech jsou přiloženy níže. Každých 15-20 minut někdo otevře dveře parní komory na 10 sekund (vstup nebo odchod). Uvažujte, že se během této jednorázové diskrétní ztrátě ochladí $\frac{1}{9}$ množství plynů v komoře na okolních $T_{\text{okolí}}$ 25 °C. Chování parní komory nad 100 °C je možné zanedbat. Zohledněte ale že senzor teploty na stropě má pětisekundové zpoždění mezi aktuální teplotou a naměřenou teplotou. *Odkaz na parní generátor:* [https://www.dino-dampf.com/en/electric-steam-generator-type-cd22-5k-e-h-10.html](https://www.dino-dampf.com/en/electric-steam-generator-type-cd22-5k-e-h-10.html).
+Je parní komora o objemu $$V_{\text{komora}}$$ a rozměrech $$3 \times 3 \times 2,5 \, \text{m}$$ a v ní je nutno udržovat teplotu $$T_{\text{komora}}$$ okolo 50 °C. K dispozici máme generátor páry Steam Generator CD 22.5 Compact (viz odkaz níže), který má výkon $$P_{\text{generator}}$$ 22.5 kW. Během tohoto procesu jsou i nějaké tepelné ztráty do okolí. Pro zjednodušení, parní komora je sestavena z kachliček o tloušťce $$d_{\text{kachlička}}$$ 8 mm, které jsou nalepeny na izolaci XPS. Podrobné informace o materiálech jsou přiloženy níže. Každých 15-20 minut někdo otevře dveře parní komory na 10 sekund (vstup nebo odchod). Uvažujte, že se během této jednorázové diskrétní ztrátě ochladí $$\frac{1}{9}$$ množství plynů v komoře na okolních $$T_{\text{okolí}}$$ 25 °C. Chování parní komory nad 100 °C je možné zanedbat. Zohledněte ale že senzor teploty na stropě má pětisekundové zpoždění mezi aktuální teplotou a naměřenou teplotou. *Odkaz na parní generátor:* [https://www.dino-dampf.com/en/electric-steam-generator-type-cd22-5k-e-h-10.html](https://www.dino-dampf.com/en/electric-steam-generator-type-cd22-5k-e-h-10.html).
 
 **Hodnoty veličin a vlasntostí materiálů**:
 
 parní komora:
 
-* $V_{\text{komora}} = 22,5 \, \text{m}^3 \quad (3 \times 3 \times 2,5 \, \text{m})$
-* $T_{\text{komora}}$ = 50 °C ($T_{\text{požadovaná}}$)
+* $$V_{\text{komora}} = 22,5 \, \text{m}^3 \quad (3 \times 3 \times 2,5 \, \text{m})$$
+* $$T_{\text{komora}}$$ = 50 °C ($$T_{\text{požadovaná}}$$)
 * rozptyl = 45-55 °C je ok
 
 generátor:
 
-* $P_{\text{generator}}$ = 22,5 kW
-* $\dot{m}$ = 30 kg/h
+* $$P_{\text{generator}}$$ = 22,5 kW
+* $$\dot{m}$$ = 30 kg/h
 
 pára:
 
-* $p_{\text{nasycené páry vody při 50 °C}}$ = 12327,51 Pa
-* $c_{\text{vodní páry při 50 °C}}$ = 1878,55 J/kg/K
-* $M_{\text{voda}}$ = 18 g/mol
+* $$p_{\text{nasycené páry vody při 50 °C}}$$ = 12327,51 Pa
+* $$c_{\text{vodní páry při 50 °C}}$$ = 1878,55 J/kg/K
+* $$M_{\text{voda}}$$ = 18 g/mol
 
 vzduch:
 
-* $M_{\text{vzduch}}$ = 29 g/mol
-* $c_{\text{vzduch při 50 °C}}$ = 998,71 J/kg/K
+* $$M_{\text{vzduch}}$$ = 29 g/mol
+* $$c_{\text{vzduch při 50 °C}}$$ = 998,71 J/kg/K
 
 keramické kachličky v parní komoře:
 
-* $c_{\text{kachličky}}$ = 850 J/kg/K
-* $\rho_{\text{kachličky}}$ = 2500 kg/m$^3$
-* $d_{\text{kachlička}}$ = 8 mm
-* $\lambda_{\text{kachlička}}$ = 1,1 W/m/K
-* $R_{si}$ = 0,07 m$^2$ K/W
-* $R_{se}$ = 0,13 m$^2$ K/W
+* $$c_{\text{kachličky}}$$ = 850 J/kg/K
+* $$\rho_{\text{kachličky}}$$ = 2500 kg/m$$^3$$
+* $$d_{\text{kachlička}}$$ = 8 mm
+* $$\lambda_{\text{kachlička}}$$ = 1,1 W/m/K
+* $$R_{si}$$ = 0,07 m$$^2$$ K/W
+* $$R_{se}$$ = 0,13 m$$^2$$ K/W
 
 izolant (extrudovaný polystyren, XPS):
 
-* $d_{\text{XPS}}$ = 0,1 m
-* $\lambda_{\text{XPS}}$ = 0,035 W/m/K
+* $$d_{\text{XPS}}$$ = 0,1 m
+* $$\lambda_{\text{XPS}}$$ = 0,035 W/m/K
 
 ostatní:
 
-* $T_{\text{start}}$ = 25 °C
-* $T_{\text{okolí}}$ = 25 °C
-* $p_{\text{celk}}$ = 101500 Pa
-* $x \in [0;1]$ (otevření a zavření ventilu)
+* $$T_{\text{start}}$$ = 25 °C
+* $$T_{\text{okolí}}$$ = 25 °C
+* $$p_{\text{celk}}$$ = 101500 Pa
+* $$x \in [0;1]$$ (otevření a zavření ventilu)
 * celkové tepelné ztráty dodatečně vynásobit faktorem 10
 
 ---
@@ -80,7 +80,7 @@ Následně vydělíme diferenciálem.
 
 $$\dot{H}_{\text{vstup}} + \dot{Q} = \dot{H}_{\text{výstup}} + \frac{\text{d}H}{\text{d}t}$$
 
-Vodní pára je generována generátorem o výkonu $P_{\text{generator}}$ v uzavřeném prostoru, proto lze vstupní entalpii nahradit pouze výkonem. Ten je nutné ještě vynásobit $x$, což udává, jak moc je ventil uzavřen nebo otevřen. Výstupní proudy jsou tepelné ztráty přes stěny a při otevření dveří, které je ale v čase proměnlivé.
+Vodní pára je generována generátorem o výkonu $$P_{\text{generator}}$$ v uzavřeném prostoru, proto lze vstupní entalpii nahradit pouze výkonem. Ten je nutné ještě vynásobit $$x$$, což udává, jak moc je ventil uzavřen nebo otevřen. Výstupní proudy jsou tepelné ztráty přes stěny a při otevření dveří, které je ale v čase proměnlivé.
 
 $$xP_{\text{generator}} = x\dot{Q}_{\text{generator}} = \dot{Q}_{\text{ztráty}} + \dot{H}_{\text{dveře}}(t)$$
 
@@ -130,13 +130,13 @@ $$\begin{aligned} 22500x &= 0,3263 \cdot 48 \cdot (T_{\text{komora}}-25)\cdot10 
 
 ## 3 Řešení v Simulinku
 
-Výsledná rovnice byla namodelována v Simulinku. Veličinu, kterou jsem sledoval, byla teplota v komoře. Ta byla spočtena pomocí integrace zjištěné derivace a sledovaná pomocí bloků Scope. Veličinu, kterou budu regulovat, je ventil od generátoru vodní páry $x$. Podle očekávání, bez žádného regulátoru rostla teplota až do 168 °C, kde se ustálila.
+Výsledná rovnice byla namodelována v Simulinku. Veličinu, kterou jsem sledoval, byla teplota v komoře. Ta byla spočtena pomocí integrace zjištěné derivace a sledovaná pomocí bloků Scope. Veličinu, kterou budu regulovat, je ventil od generátoru vodní páry $$x$$. Podle očekávání, bez žádného regulátoru rostla teplota až do 168 °C, kde se ustálila.
 
 ### 3.1 Fuzzy regulátor
 
 Než jsem začal implementovat fuzzy regulátor, ještě jsem přidal blok Time Delay mezi zjišťovanou teplotou a výpočtem, abych lépe nasimuloval reálné prostředí. K nepravidelnému otevírání dveří jsem dodal i pulse generátor, který mi každých 1000 sekund (skoro 17 minut, doporučovaný pobyt v parní komoře je 15 až 20 minut) odebíral na 10 sekund entalpii. To se projevilo snížením teploty.
 
-Prvním vstupem pro fuzzy regulator byla odchylka aktuální teploty v komoře od požadované teploty ($T_{\text{požadovaná}}-T_{\text{komora}}$). V mém původním návrhu jsem chtěl zohlednit asymetrii situace, tedy že chci být více přísný na přehřátí, poněvadž se teplo obecně hůře odebírá než se přidává. Proto jsem si udělal vstupní fuzzy množiny nepravidelné, abych situaci lépe ohlídal. Tento návrh jsem nakonec opustil a udělal jsem jej normalizovaný [-1,1] pro 5 intervalů. Odchylky byly klasifikovány jako málo, skoro super, super, moc teplo, příliš teplo.
+Prvním vstupem pro fuzzy regulator byla odchylka aktuální teploty v komoře od požadované teploty ($$T_{\text{požadovaná}}-T_{\text{komora}}$$). V mém původním návrhu jsem chtěl zohlednit asymetrii situace, tedy že chci být více přísný na přehřátí, poněvadž se teplo obecně hůře odebírá než se přidává. Proto jsem si udělal vstupní fuzzy množiny nepravidelné, abych situaci lépe ohlídal. Tento návrh jsem nakonec opustil a udělal jsem jej normalizovaný [-1,1] pro 5 intervalů. Odchylky byly klasifikovány jako málo, skoro super, super, moc teplo, příliš teplo.
 
 Druhou vstupní množinou byla derivace teploty, abych lépe podchytil, jestli se teplota mění prudce, pomaleji nebo vůbec. I tento vstup byl normalizovaný na intervalu [-1;1].
 
