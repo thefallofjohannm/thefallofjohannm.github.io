@@ -28,7 +28,7 @@ sidebar:
     link: /literature/
   - name: Visual Arts
     icon: <i class="fa-solid fa-palette"></i>
-    link: /visualarts/
+    link: /visual-arts/
   - name: Science
     icon: <i class="fa-sharp fa-solid fa-fire"></i>
     link: /science/
@@ -48,8 +48,6 @@ sidebar:
 
 collections:
   posts:
-    output: true
-  poems:
     output: true
 
 
