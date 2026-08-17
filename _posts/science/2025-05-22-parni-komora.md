@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One-Dimensional Diffusion–Reaction Modeling of Lactose Hydrolysis in a Porous Membrane
+title: Korigování teploty v parní komoře ve wellness pomocí fuzzy regulatoru
 category: Science
 ---
 
