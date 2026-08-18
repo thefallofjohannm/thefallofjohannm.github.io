@@ -26,7 +26,7 @@ Je parní komora o objemu $$V_{\text{komora}}$$ a rozměrech $$3 \times 3 \times
 
 parní komora:
 
-* $$V_{\text{komora}} = 22,5 \, \text{m}^3 \quad (3 \times 3 \times 2,5 \, \text{m})$$
+* $$V_{\text{komora}} =$$ 22,5 $$\text{m}^3 \quad (3 \times 3 \times 2,5 \, \text{m})$$
 * $$T_{\text{komora}}$$ = 50 °C ($$T_{\text{požadovaná}}$$)
 * rozptyl = 45-55 °C je ok
 
