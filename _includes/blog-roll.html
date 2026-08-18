@@ -18,9 +18,11 @@
              </li>
              <li><p class="date">{{ post.date | date: "%-d %B %Y" }}</p></li>
           </ul>
-          {% unless post.layout == "external_link" %}
-             <p>{{ post.content | strip_html | truncatewords: 50 }} <a href="{{- post.url -}}">Číst dále</a></p>
-          {% endunless %}
+          {% if post.layout == "external_link" %}
+             <p>More on <a href="{{- post.redirect_to -}}">{{- post.redirect_to | remove: "https://" | remove: "http://" -}}</a></p>
+          {% else %}
+             <p>{{- post.content | strip_html | truncatewords: 50 -}} <a href="{{- post.url -}}">Číst dále</a></p>
+          {% endif %}
        </div>
     {%- endfor %}
 </div>
