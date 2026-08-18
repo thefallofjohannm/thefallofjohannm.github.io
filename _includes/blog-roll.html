@@ -14,7 +14,14 @@
 			</h2>
 			<ul class="list" style="padding: 0;">
 				<li>
+<<<<<<< HEAD
 					<b>{{ post.category -}}</b>
+=======
+
+					{%- if post.category %}
+					: {{ post.category -}}
+					{% endif %}
+>>>>>>> 14ad5d4 (maybe this)
 				</li>
 				<li><p class="date">{{ post.date | date: "%B %e, %Y" }}</p></li>
 			</ul>
