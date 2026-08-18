@@ -4,17 +4,11 @@ title: Korigování teploty v parní komoře ve wellness pomocí fuzzy regulator
 category: Science
 ---
 
+**Autor:** Tibor Malinský  
+**Datum:** Květen 2025
+
 {:toc}
 - .
-
----
-
-
-# Korigování teploty v parní komoře ve wellness pomocí fuzzy regulátoru
-
-**Autor:** Tibor Malinský
-
-**Datum:** Květen 2025
 
 ---
 
@@ -26,47 +20,47 @@ Je parní komora o objemu $$V_{\text{komora}}$$ a rozměrech $$3 \times 3 \times
 
 parní komora:
 
-* $$V_{\text{komora}} =$$ 22,5 $$\text{m}^3 \quad (3 \times 3 \times 2,5 \, \text{m})$$
-* $$T_{\text{komora}}$$ = 50 °C ($$T_{\text{požadovaná}}$$)
-* rozptyl = 45-55 °C je ok
+- $$V_{\text{komora}}$$ = 22,5 m$$^3$$ (3 $$\times$$ 3 $$\times$$ 2,5m)
+- $$T_{\text{komora}}$$ = 50 °C ($$T_{\text{požadovaná}}$$)
+- rozptyl = 45-55 °C je ok
 
 generátor:
 
-* $$P_{\text{generator}}$$ = 22,5 kW
-* $$\dot{m}$$ = 30 kg/h
+- $$P_{\text{generator}}$$ = 22,5 kW
+- $$\dot{m}$$ = 30 kg/h
 
 pára:
 
-* $$p_{\text{nasycené páry vody při 50 °C}}$$ = 12327,51 Pa
-* $$c_{\text{vodní páry při 50 °C}}$$ = 1878,55 J/kg/K
-* $$M_{\text{voda}}$$ = 18 g/mol
+- $$p_{\text{nasycené páry vody při 50 °C}}$$ = 12327,51 Pa
+- $$c_{\text{vodní páry při 50 °C}}$$ = 1878,55 J/kg/K
+- $$M_{\text{voda}}$$ = 18 g/mol
 
 vzduch:
 
-* $$M_{\text{vzduch}}$$ = 29 g/mol
-* $$c_{\text{vzduch při 50 °C}}$$ = 998,71 J/kg/K
+- $$M_{\text{vzduch}}$$ = 29 g/mol
+- $$c_{\text{vzduch při 50 °C}}$$ = 998,71 J/kg/K
 
 keramické kachličky v parní komoře:
 
-* $$c_{\text{kachličky}}$$ = 850 J/kg/K
-* $$\rho_{\text{kachličky}}$$ = 2500 kg/m$$^3$$
-* $$d_{\text{kachlička}}$$ = 8 mm
-* $$\lambda_{\text{kachlička}}$$ = 1,1 W/m/K
-* $$R_{si}$$ = 0,07 m$$^2$$ K/W
-* $$R_{se}$$ = 0,13 m$$^2$$ K/W
+- $$c_{\text{kachličky}}$$ = 850 J/kg/K
+- $$\rho_{\text{kachličky}}$$ = 2500 kg/m$$^3$$
+- $$d_{\text{kachlička}}$$ = 8 mm
+- $$\lambda_{\text{kachlička}}$$ = 1,1 W/m/K
+- $$R_{si}$$ = 0,07 m$$^2$$ K/W
+- $$R_{se}$$ = 0,13 m$$^2$$ K/W
 
 izolant (extrudovaný polystyren, XPS):
 
-* $$d_{\text{XPS}}$$ = 0,1 m
-* $$\lambda_{\text{XPS}}$$ = 0,035 W/m/K
+- $$d_{\text{XPS}}$$ = 0,1 m
+- $$\lambda_{\text{XPS}}$$ = 0,035 W/m/K
 
 ostatní:
 
-* $$T_{\text{start}}$$ = 25 °C
-* $$T_{\text{okolí}}$$ = 25 °C
-* $$p_{\text{celk}}$$ = 101500 Pa
-* $$x \in [0;1]$$ (otevření a zavření ventilu)
-* celkové tepelné ztráty dodatečně vynásobit faktorem 10
+- $$T_{\text{start}}$$ = 25 °C
+- $$T_{\text{okolí}}$$ = 25 °C
+- $$p_{\text{celk}}$$ = 101500 Pa
+- $$x \in [0;1]$$ (otevření a zavření ventilu)
+- celkové tepelné ztráty dodatečně vynásobit faktorem 10
 
 ---
 
