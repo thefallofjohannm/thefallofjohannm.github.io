@@ -1,4 +1,5 @@
 // Placeholder file. If your site uses
-//     @import "{{ site.theme }}";
+//     @use "{{ site.theme }}";
+// (or the deprecated @import form)
 // Then using this theme with jekyll-remote-theme will work fine.
-@import "jekyll-theme-minimalist";
+@forward "jekyll-theme-minimalist";
