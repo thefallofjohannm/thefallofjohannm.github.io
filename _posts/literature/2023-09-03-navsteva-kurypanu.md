@@ -22,7 +22,6 @@ neboť voda z ní je výjimečná, podle některých i čarovná. Pověry jsou p
 jako olivy – nejím je. Chtěl jsem se ovšem osvěžit, a tak jsem se oné „čarovné“ 
 vody napil.
 
-
 Po vzpružení se se mi zdálo, že náměstí je nějaké barevnější než předtím, 
 ale to jsem přisuzoval slunku, které konečně vysvitlo. „Nemáme tu jen 
 náměstí, pojď, ukážu ti i okolí,“ usmál se na mě nadšeně kamarád a vyrazil 
@@ -33,8 +32,6 @@ deštník použil jako slunečník, neboť mě začaly ze slunka svědit oči.
 „Promiň, jdeme po špatné straně, na té druhé je stín. Bohužel nemůžeme 
 přejít, přecházet dvouproudové silnice mimo přechod je zejména zde nebezpečné,“ 
 vysvětlil mi kamarád omluvně.
-
-
 
 Začal jsem si všímat, že populace v Kurypánech je chudá jak chůda. 
 Všichni měli značkové oblečení, drahá auta, krásné domy a ty vily byly jak víly. 
@@ -51,14 +48,10 @@ vysvětlujícně prohlásil: „Trápí mě totiž alergie jak alegorie.“
 Koutkem oka jsem se na společníka podíval, nevnímal, vstal jsem tedy z lavičky 
 modré jak modřín a pokračoval za ním.
 
-
-
 Můj průvodce prohlásil, že Kurypány přeci nejsou jen baráky a parky, 
 ale že je to i kultura, ať už podzimní burčáky, divadelní festival, 
 koncerty ve filharmonii nebo návštěva cukráren. Vrátili jsme se tedy na 
 náměstí s fontánkou a zašli jsme do cukrárny dát si dort.
-
-
 
 Objednávka byla komplikovaná jak kompliment, 
 takže jsem si mohl hnedka sednout a prohlížet si obraz krásný jak kras. 
@@ -70,8 +63,6 @@ fialové. Nyní je to skvost, ale v 19. století ho za to chtěli zadupat do zem
 Podívej se na ty detaily! Prakticky tam žádné nejsou. 
 Lid a kritici si mysleli, že to prostě odfláknul!“ 
 Na 19. století je to počin moderní jak model.
-
-
 
 Když nám cukrář přinesl naši objednávku, chtěl nám jen popřát dobrou chuť 
 a věnovat se ostatním, všiml si ale, že diskutujeme o obrazu. Přítele znal, 
@@ -92,8 +83,6 @@ Cukrář byl náhle toporný jak topůrko a se slovy _bone apetit_ odešel.
 pomalu a plynule jak plyn, tak jsem u toho usínal,“ řekl jsem směrem 
 ke kamarádovi, který se nepřestával usmívat, ačkoli měl svraštěné obočí.
 
-
-
 Naplněn velmi podrobnými informacemi o obrazu jsem z něj spustil oči a 
 jal se jíst svůj zákusek. Dorty mám rád a tenhle byl sladký jak sládek. 
 Při prvním soustě jsem mimo jiné zjistil, že je vláčný jak vláček, a tak 
@@ -111,8 +100,6 @@ období burčáků v Kurypánech.“ Alespoň že ten šálek je obří jak obř
 pokračoval, „k velikým konvicím jsou zásadně drobné šálky.“ Silně jsem 
 vydechl a zůstal mlčet.
 
-
-
 Krému ten dort obsahoval převelice málo, k tomu byl tučný jak tučňák, 
 pročež jsem objednaný čaj pil jak pyl – nechtěl jsem totiž dát najevo, 
 že mám z toho dortu v puse sucho. „Pověz mi, jak vlastně vypadá tvůj 
@@ -124,8 +111,6 @@ můj osobák jsou zatím tři hodiny. V neděli se vracím a starám se o
 zahradu, na které teď stavím pergolu. Je to spousta práce, a ještě k tomu 
 jsem na to sám, ale výsledek bude stát za to. V pondělí jsem opět 
 v kanceláři a odpoledne na stavbě, ale to už jsem ti vyprávěl.“ 
-
-
 
 Oba jsme dojedli a přítel naznačil, že bychom mohli pokračovat, 
 jenže já jsem si přál ještě chvíli posedět, a tak jsem pronesl návrh, 
@@ -141,8 +126,6 @@ jelikož byl kovový a vršek byl ostrý jak ostrov. „Jednou se tu stalo,
 abych je všechny vzal a ve své dílně zabrousil,“ dosrkal poslední kapičku 
 ze dna sklenice a dodal: „Tenhle mi asi zapomněl dát, tak opatrně.“
 
-
-
 Byvše osvěženi, rozhodli jsme se opustit cukrárnu. Trval jsem na tom, 
 abych svého kamaráda pozval, dlužil jsem mu to od našeho posledního setkání. 
 Došel jsem tedy ke kase a obdržel účet. Naše návštěva cukrárny byla 
@@ -151,8 +134,6 @@ svou hotovost. Aby ovšem nikdo nepoznal můj zármutek, nasadil jsem tvář,
 která byla vážná jak vážka. „Čemu se tak směješ?“ Zeptal se mě kamarád. 
 Venku totiž čekalo štěně jak štěnice, patrně bernardýn, a bylo roztomilé 
 jak roztok.
-
-
 
 Když jsme vyšli ven, náměstí mi náhle přišlo poněkud mdlé, 
 barvy již nebyly tak syté jako předtím, a ačkoli slunce stále pražilo, 
@@ -165,3 +146,4 @@ kde všichni jsou. „Asi u vody, však je krásně a k tomu teplo jak v sauně.
 Doopravdy, horko bylo, že i koleje se z toho začaly kroutit. Šli jsme okolo 
 fontánky, když přítel znovu promluvil: „Neosvěžíš se?“ A tak jsem se osvěžil. 
 Osvěžil jsem se vodou pramenitou jak prám.
+
