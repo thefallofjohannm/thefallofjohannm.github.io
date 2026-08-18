@@ -2,6 +2,7 @@
 layout: post
 title: Návštěva Kurypánů
 category: Literature
+subcategory: Povídka
 ---
 
 {:toc}
