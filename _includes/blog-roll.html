@@ -1,28 +1,31 @@
 {%- assign all_posts = "" | split: "" -%}
 {%- for collection in site.collections -%}
-    {%- assign all_posts = all_posts | concat: collection.docs -%}
+	{%- assign all_posts = all_posts | concat: collection.docs -%}
 {%- endfor -%}
 {%- assign all_posts = all_posts | uniq | sort: "date" | reverse -%}
 
 <div>
-    {% for post in all_posts -%}
-       <div class="preview">
-          <h2>
-             <a href="{%- if post.layout == "external_link" -%}{{- post.redirect_to -}}{% else %}{{- post.url -}}{% endif %}">
-                {{- post.title -}}
-             </a>
-          </h2>
-          <ul class="list" style="padding: 0;">
-             <li>
-                <a href="/{{ post.category | slugify }}/"><b>{{ post.category }}</b></a>{% if post.subcategory %}: {{ post.subcategory }}{% endif %}
-             </li>
-             <li><p class="date">{{ post.date | date: "%-d %B %Y" }}</p></li>
-          </ul>
-          {% if post.layout == "external_link" %}
-             <p>More on <a href="{{- post.redirect_to -}}">{{- post.redirect_to | remove: "https://" | remove: "http://" -}}</a></p>
-          {% else %}
-             <p>{{- post.content | strip_html | truncatewords: 50 -}} <a href="{{- post.url -}}">Číst dále</a></p>
-          {% endif %}
-       </div>
-    {%- endfor %}
+	{% for post in all_posts -%}
+		<div class="preview">
+			<h2>
+				<a href="{%- if post.layout == "external_link" -%}{{- post.redirect_to -}}{% else %}{{- post.url -}}{% endif %}">
+					{{- post.title -}}
+				</a>
+			</h2>
+			<ul class="list" style="padding: 0;">
+				<li>
+					<a href="/{{- post.category | slugify -}}/"><b>{{- post.category | capitalize | replace: '-', ' ' -}}</b></a>
+					{%- if post.subcategory -%}
+						: {{ post.subcategory -}}
+					{% endif %}
+				</li>
+				<li><p class="date">{{- post.date | date: "%-d %B %Y" -}}</p></li>
+			</ul>
+			{% if post.layout == "external_link" %}
+				<p>More on <a href="{{- post.redirect_to -}}">{{- post.redirect_to | remove: "https://" | remove: "http://" -}}</a></p>
+			{% else %}
+				<p>{{- post.content | strip_html | truncatewords: 50 -}} <a href="{{- post.url -}}"> Číst dále</a></p>
+			{% endif %}
+		</div>
+	{%- endfor %}
 </div>
