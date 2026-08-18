@@ -2,6 +2,7 @@
 layout: post
 title: 68 Non-Mainstreams Tips for Prague
 category: Uncategorizable
+subcategory: Travel Tips
 ---
 
 {:toc}
