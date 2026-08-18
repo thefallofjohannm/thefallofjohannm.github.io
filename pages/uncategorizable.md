@@ -6,4 +6,4 @@ permalink: "/uncategorizable/"
 
 # Uncategorizable
 
-{% include category-list.html category="misc" %}
+{% include category-list.html category="uncategorizable" %}
