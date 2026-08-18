@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Slavic Vocabulary - Fake Friends
-category: Misc
+category: Uncategorizable
+subcategory: Linguistics
 ---
 
 {:toc}
