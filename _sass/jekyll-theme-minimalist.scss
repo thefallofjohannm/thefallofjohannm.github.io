@@ -30,11 +30,9 @@ body {
   padding: var(--page-pad);
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
-  font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--clr-h1-and-bold);
   margin:0 0 20px;
 }
 
@@ -53,6 +51,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:32px;
+  color: var(--clr-h1-and-bold);
 }
 
 h2 {
@@ -68,7 +67,7 @@ a {
   text-decoration:none;
 }
 
-a.list:hover, a:hover, a:focus-visible {
+a:hover, a:focus-visible {
   color: var(--clr-a-text-hvr);
 }
 
@@ -104,32 +103,11 @@ a.list:hover, a:hover, a:focus-visible {
   }
 }
 
-a small {
-  font-size:11px;
-  color:var(--clr-small-in-a);
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:var(--clr-small-in-a);
-}
-
 ul.list {
   list-style-type: none;
   display: flex; 
-  justify-content: space-between; 
-  padding-right: 5%;
-  padding-left: 5%;
-  margin-bottom: 0px;
-}
-
-h3.list {
-  margin-bottom: 10px;
-}
-
-a.list {
-  color:var(--clr-text);
+  justify-content: space-between;
+  margin-bottom: 0;
 }
 
 ul.meta {
@@ -139,12 +117,6 @@ ul.meta {
   padding: 0;
 }
 
-// added
-p.link {
-  margin:0 0 4px;
-}
-
-// added
 ul.link {
   list-style-type: none; /* Remove bullets */
   margin: 0; /* To remove default bottom margin */ 
@@ -157,6 +129,11 @@ ul.link li + li {
 
 ul.link:last-child {
   margin-bottom: 6px;
+}
+
+.img-circle {
+  border-radius: 8px;
+  margin-bottom: 10px;
 }
 
 /* The site name is branding, not the document heading: every page also has an
@@ -225,13 +202,12 @@ th, td {
   border-bottom:1px solid var(--clr-splitter-blockquote-and-section);
 }
 
-dt {
+dt, th {
   color:var(--clr-table-header-and-dt);
-  font-weight:700;
 }
 
-th {
-  color:var(--clr-table-header-and-dt);
+dt {
+  font-weight:700;
 }
 
 img {
@@ -290,7 +266,6 @@ kbd {
   top: var(--page-pad);//rests below the page gutter and stays there when scrolled, so it never jumps
   align-self: start;//a stretched grid item cannot stick
   box-sizing: border-box;//so the height below covers the padding too
-  -webkit-font-smoothing:subpixel-antialiased;
   padding: 0 0 50px;//was 58px, which only existed to push a viewport-anchored box down to the gutter
   display: flex;
   flex-direction: column;
@@ -368,16 +343,8 @@ hr {
   margin:10px auto 30px;
 }
 
-footer, .sidebar-footer {
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
 footer {
   display: none;
-}
-
-.sidebar-footer {
-  flex-basis: content;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -394,16 +361,8 @@ footer {
     display: initial;
   }
 
-  .sidebar-footer {
-    display: none;
-  }
-
   .wrapper {
     grid-template-columns: minmax(0, 1fr);
-  }
-
-  header {
-    padding-right:0px;
   }
 
   section {
@@ -413,16 +372,6 @@ footer {
     margin:0 0 20px;
   }
 
-  header a small {
-    display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-  
   .link-wrapper {
     display: none !important;
   }
@@ -435,14 +384,6 @@ footer {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
-  }
-
-  header {
-    padding:0;
-  }
-
-  header ul, header p.view {
-    position:static;
   }
 
   pre, code {
@@ -464,14 +405,6 @@ footer {
   body {
     --page-pad: 15px;
   }
-
-  // header ul {
-  //   width:99%;
-  // }
-
-  // header li, header ul li + li + li {
-  //   width:33%;
-  // }
 }
 
 @media print {
