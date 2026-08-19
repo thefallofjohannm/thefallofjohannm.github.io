@@ -64,6 +64,7 @@ hvr -> hover
 }
 
 @mixin light-colors {
+  color-scheme: light;//tells the UA to paint scrollbars, form controls and <details> markers to match
   // buttons
   --S-a-text: 72%;
   --L-a-text: 33%;
@@ -96,6 +97,7 @@ hvr -> hover
 }
 
 @mixin dark-colors {
+color-scheme: dark;//tells the UA to paint scrollbars, form controls and <details> markers to match
 // buttons
 --S-a-text: 78%;
 --L-a-text: 66%;
