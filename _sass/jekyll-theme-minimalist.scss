@@ -159,6 +159,18 @@ ul.link:last-child {
   margin-bottom: 6px;
 }
 
+/* The site name is branding, not the document heading: every page also has an
+   h1 for its own title, so this was the second h1 on every page and screen
+   reader heading navigation landed here first on every article. Values match
+   the h1 it replaces so nothing moves. */
+.site-title {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--clr-h1-and-bold);
+  margin: 0 0 20px;
+}
+
 /* Was a <style scoped> block inside each of the two nav includes. `scoped` was
    removed from HTML and never shipped outside one Firefox experiment, so both
    were ordinary global stylesheets injected into the body of every page. Both
