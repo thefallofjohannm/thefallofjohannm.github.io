@@ -35,9 +35,8 @@ hvr -> hover
 
 @mixin colors {  
   // buttons
-  --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
-  --clr-a-text: hsl(200, 100%, var(--L-a-text));
-  --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+  --clr-a-text: hsl(200, var(--S-a-text), var(--L-a-text));
+  --clr-a-text-hvr: hsl(200, var(--S-a-text), var(--L-a-text-hvr));//hover luminosity is set per theme, not derived: on a dark bg a link must get lighter to gain contrast, on a light bg darker
   --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
   --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
@@ -66,7 +65,9 @@ hvr -> hover
 
 @mixin light-colors {
   // buttons
-  --L-a-text: 35%;
+  --S-a-text: 72%;
+  --L-a-text: 33%;
+  --L-a-text-hvr: 24%;//darker on hover: 6.11 -> 9.29 contrast
   --L-buttons-main-bg: 96%;
   --L-buttons-main-border: 88%;
   --L-buttons-main-text: 40%;
@@ -96,7 +97,9 @@ hvr -> hover
 
 @mixin dark-colors {
 // buttons
---L-a-text: 60%;
+--S-a-text: 78%;
+--L-a-text: 66%;
+--L-a-text-hvr: 80%;//lighter on hover: 8.50 -> 11.53 contrast
 --L-buttons-main-bg: 17%;
 --L-buttons-main-border: 26%;
 --L-buttons-main-text: 76%;
