@@ -1,4 +1,4 @@
-<ul>
+<ul class="category-list">
 {% for post in site.posts reversed %}
     {% assign post_category = post.category | downcase %}
     {% assign target_category = include.category | downcase %}

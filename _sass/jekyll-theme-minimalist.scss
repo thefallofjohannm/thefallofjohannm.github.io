@@ -76,6 +76,33 @@ a.list:hover, a:hover, a:focus-visible {
   outline-offset: 2px;
 }
 
+/* Inside running prose, colour alone is the only thing marking a link, which
+   fails for colour-blind readers. List items count as prose: posts embed links
+   mid-sentence inside them just as they do inside paragraphs.
+   Scoped to .wrapper > section for now; becomes "main" once the layout is semantic. */
+.wrapper > section {
+  :is(p, li, blockquote, td, dd) a {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-decoration-color: color-mix(in oklab, currentColor 45%, transparent);
+    text-underline-offset: 0.18em;
+    transition: text-decoration-color 120ms ease;
+
+    &:hover, &:focus-visible {
+      text-decoration-color: currentColor;
+    }
+  }
+
+  /* Index and table-of-contents lists are the exception: every item is a link,
+     so position marks them already and underlines would just be noise. */
+  #markdown-toc a,
+  .category-list a,
+  ul.list a,
+  .post-meta a {
+    text-decoration: none;
+  }
+}
+
 a small {
   font-size:11px;
   color:var(--clr-small-in-a);
