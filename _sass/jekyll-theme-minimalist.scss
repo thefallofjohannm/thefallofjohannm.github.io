@@ -97,7 +97,6 @@ a.list:hover, a:hover, a:focus-visible {
 
   /* Index and table-of-contents lists are the exception: every item is a link,
      so position marks them already and underlines would just be noise. */
-  #markdown-toc a,
   .category-list a,
   ul.list a,
   .post-meta a {
@@ -223,6 +222,39 @@ kbd {
   line-height: 10px;
   padding: 3px 5px;
   vertical-align: middle;
+}
+
+/* The table of contents reads as apparatus, not as the article's first list:
+   box it so the eye can skip it, and drop the bullets since every row is a link.
+   Deliberately no CSS counter - modeling.md already numbers its own headings
+   ("1. Task") and parni-komora.md numbers both levels, so generated numerals
+   would render as "1. 1. Task". non-mainstream-tips.md numbers nothing. */
+#markdown-toc {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0.9rem 1.2rem;
+  border: 1px solid var(--clr-splitter-blockquote-and-section);
+  border-radius: 4px;
+  background: color-mix(in oklab, var(--clr-bg) 92%, var(--clr-text));
+  font-size: 0.9em;
+
+  ul {
+    list-style: none;
+    margin: 0.25em 0 0;
+    padding-left: 1.4em;
+  }
+
+  li + li {
+    margin-top: 0.25em;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover, a:focus-visible {
+    text-decoration: underline;
+  }
 }
 
 .sidebar {
