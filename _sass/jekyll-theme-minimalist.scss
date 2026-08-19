@@ -26,18 +26,27 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
 body {
   background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+  line-height: 1.65;
   color: var(--clr-text);
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--clr-h1-and-bold);
-  margin:0 0 20px;
+  margin:0 0 0.6em;
 }
 
+/* a heading belongs to the text below it, so the space above it must be larger
+   than the space below it. h1 is the page title and keeps its flush top. */
+h2, h3, h4, h5, h6 {
+  margin-top: 2.2em;
+}
+
+/* em, not px, so the rhythm tracks the fluid font size */
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 1.15em;
 }
 
 /* nested lists shouldn't inherit the paragraph-sized bottom gap */
@@ -159,7 +168,8 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
+  width: 100%;
+  max-width: 805px;//185px sidebar + 65px gutter + 555px measure at the largest step
   margin: 0 auto;
 }
 
@@ -181,6 +191,14 @@ pre {
   border-radius:5px;
   border:1px solid var(--clr-code-border);
   overflow-x: auto;
+}
+
+/* KaTeX sets white-space:nowrap on display maths and no overflow, so a long
+   equation would scroll the whole page sideways. Keep it in its own box. */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 0.35em;
 }
 
 table {
@@ -272,7 +290,7 @@ kbd {
 .references-display
   .spliter
     .spliter-item {
-      min-width: 300px;
+      min-width: 250px;
     }
 
 // Disables the scrollbar in Firefox
@@ -295,8 +313,8 @@ strong {
 }
 
 section {
-  width: 610px;
-  float:right;
+  margin-left: 250px;//clears the 185px fixed sidebar plus a 65px gutter
+  max-width: 56ch;//~68 characters in Noto Sans, whose average glyph is 0.45em against a 0.55em "0"
   padding-bottom:30px;
 }
 
@@ -346,6 +364,7 @@ footer {
 
   div.wrapper {
     width:auto;
+    max-width:none;
     margin:0;
   }
 
@@ -353,6 +372,10 @@ footer {
     float:none;
     position:static;
     width:auto;
+  }
+
+  section {
+    margin-left:0;
   }
 
   header {
