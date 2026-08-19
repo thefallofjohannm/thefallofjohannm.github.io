@@ -24,8 +24,10 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
 }
 
 body {
+  --page-pad: 50px;
+  margin: 0;//the UA default of 8px made the real gutter 58px, which the sticky rail has to know
   background-color: var(--clr-bg);
-  padding:50px;
+  padding: var(--page-pad);
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--clr-text);
   font-weight:400;
@@ -159,8 +161,10 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
-  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 185px minmax(0, 610px);
+  justify-content: center;
+  gap: 0 65px;
 }
 
 blockquote {
@@ -222,16 +226,17 @@ kbd {
 }
 
 .sidebar {
-  width:185px;
-  float:left;
-  position:fixed;
+  position: sticky;
+  top: var(--page-pad);//rests below the page gutter and stays there when scrolled, so it never jumps
+  align-self: start;//a stretched grid item cannot stick
+  box-sizing: border-box;//so the height below covers the padding too
   -webkit-font-smoothing:subpixel-antialiased;
-  top: 0;
-  padding: 58px 0 50px 0;
+  padding: 0 0 50px;//was 58px, which only existed to push a viewport-anchored box down to the gutter
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: calc(100vh - 108px);
+  height: calc(100vh - var(--page-pad));
+  height: calc(100dvh - var(--page-pad));//dvh, so a mobile URL bar cannot crop the rail
   overflow-x: hidden;
   overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
@@ -295,8 +300,7 @@ strong {
 }
 
 section {
-  width: 610px;
-  float:right;
+  min-width: 0;//grid items default to min-width:auto, which lets wide <pre> blow the track out
   padding-bottom:30px;
 }
 
@@ -313,9 +317,6 @@ hr {
 }
 
 footer, .sidebar-footer {
-  width:185px;
-  float:left;
-  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -330,10 +331,11 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   .sidebar {
-    padding: initial;
-    display: initial;
-    height: initial;
-    overflow: initial;    
+    position: static;
+    padding: 0;
+    display: block;//was `initial`, which computes to inline
+    height: auto;
+    overflow: visible;
   }
 
   footer {
@@ -344,15 +346,8 @@ footer {
     display: none;
   }
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  .sidebar, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+  .wrapper {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   header {
@@ -415,7 +410,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    --page-pad: 15px;
   }
 
   // header ul {
