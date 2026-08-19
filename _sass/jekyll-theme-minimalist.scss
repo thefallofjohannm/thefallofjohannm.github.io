@@ -2,6 +2,27 @@
 @use "rouge-github";
 @use "colors";
 
+html {
+  scroll-behavior: smooth;
+}
+
+/* the science posts link into their own headings from #markdown-toc */
+:target,
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
+  scroll-margin-top: 2rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
 body {
   background-color: var(--clr-bg);
   padding:50px;
@@ -45,8 +66,14 @@ a {
   text-decoration:none;
 }
 
-a.list:hover, a:hover, a:focus {
+a.list:hover, a:hover, a:focus-visible {
   color: var(--clr-a-text-hvr);
+}
+
+/* keyboard focus needs a shape, not just a colour shift */
+:focus-visible {
+  outline: 2px solid var(--clr-a-text);
+  outline-offset: 2px;
 }
 
 a small {
