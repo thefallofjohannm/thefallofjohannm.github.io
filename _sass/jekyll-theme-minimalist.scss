@@ -159,6 +159,22 @@ ul.link:last-child {
   margin-bottom: 6px;
 }
 
+/* Was a <style scoped> block inside each of the two nav includes. `scoped` was
+   removed from HTML and never shipped outside one Firefox experiment, so both
+   were ordinary global stylesheets injected into the body of every page. Both
+   also wrote `a:hover, a:focus`, whose second half is unscoped and was quietly
+   restyling focus for every link in the document. */
+.link-wrapper, .link-wrapper-mobile {
+  a {
+    color: var(--clr-h1-and-bold);
+    text-decoration: none;
+  }
+
+  a:hover, a:focus-visible {
+    color: var(--clr-a-text-hvr);
+  }
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: 185px minmax(0, 610px);
@@ -267,11 +283,17 @@ kbd {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: calc(100vh - var(--page-pad));
-  height: calc(100dvh - var(--page-pad));//dvh, so a mobile URL bar cannot crop the rail
+  //max-height, not height: the rail is only as tall as its links until the
+  //viewport is too short for them, so most people never see a scrollbar at all
+  max-height: calc(100vh - var(--page-pad));
+  max-height: calc(100dvh - var(--page-pad));//dvh, so a mobile URL bar cannot crop the rail
   overflow-x: hidden;
-  overflow-y: scroll;
-  -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
+  overflow-y: auto;
+  //and when it does scroll, say so. The thumb is mixed from the theme's own
+  //tokens so it stays visible in both schemes (the splitter token is 1.16:1
+  //against the dark page, i.e. invisible).
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in oklab, var(--clr-bg) 60%, var(--clr-text)) transparent;
 }
 
 .spliter {
@@ -311,20 +333,6 @@ kbd {
     .spliter-item {
       min-width: 300px;
     }
-
-// Disables the scrollbar in Firefox
-// HTML-Proofer fails without "@-moz-document url-prefix()"
-// because scrollbar-width is still experimental in Firefox.
-@-moz-document url-prefix() {
-  .sidebar {
-    scrollbar-width: none;
-  }
-}
-
-.sidebar::-webkit-scrollbar {
-  /* Chrome, Safari, Edge */
-  display: none;
-}
 
 strong {
   color:var(--clr-h1-and-bold);
@@ -366,7 +374,7 @@ footer {
     position: static;
     padding: 0;
     display: block;//was `initial`, which computes to inline
-    height: auto;
+    max-height: none;
     overflow: visible;
   }
 
