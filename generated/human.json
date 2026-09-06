@@ -1,0 +1,36 @@
+---
+layout: none
+permalink: /human.json
+---
+{
+	"version": "0.1.1",
+	"url": "https://tibor.ggu.cz/",
+	"vouches": [
+		{
+			"url": "https://andy.ggu.cz",
+			"vouched_at": "2026-03-22"
+		},
+		{
+			"url": "https://mj.ucw.cz",
+			"vouched_at": "2026-03-22"
+		},
+		{
+		{
+			"url": "https://olga.ggu.cz",
+			"vouched_at": "2026-03-22"
+		},
+		{
+			"url": "https://dvdkon.ggu.cz",
+			"vouched_at": "2026-03-22"
+		},
+		{
+			"url": "https://grego.site",
+			"vouched_at": "2026-03-22"
+		},
+		{
+			"url": "https://blacklog.cz",
+			"vouched_at": "2026-09-06"
+		}
+	]
+}
+
