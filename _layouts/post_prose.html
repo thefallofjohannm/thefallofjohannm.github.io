@@ -9,28 +9,26 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <style>
-  /* Knižní styl odstavců */
+
+
+  /* Knižní styl odstavců - standardně s odsazením */
   .proza-text p {
-    text-indent: 1.8em;     /* Odsazení prvního řádku odstavce */
+    text-indent: 1.8em;
     margin-top: 0;
-    margin-bottom: 0;       /* Odstavce navazují těsně pod sebou bez mezery */
+    margin-bottom: 0;
   }
 
-  /* První odstavec hned pod nadpisem nemá být odsazený (tradiční typografie) */
-  .proza-text p:first-of-type {
+  /* První odstavec po nadpisu i první odstavec po změně scény jsou BEZ odsazení */
+  .proza-text p:first-of-type,
+  .proza-text hr + p {
     text-indent: 0;
   }
 
-  /* Stylování pro oddělovač scén (když v Markdownu napíšeš ***) */
+  /* Změna scény pomocí *** (vytvoří jen čistou mezeru bez čáry) */
   .proza-text hr {
     border: none;
-    text-align: center;
-    margin: 1.8em 0;
-  }
-  .proza-text hr::before {
-    content: "* * *";
-    color: #777;
-    font-size: 1.1em;
+    height: 0;
+    margin: 2.2em 0; /* Velikost prázdné mezery mezi scénami */
   }
 </style>
 
