@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<style>
+  /* Styl pro kontejner prózy */
+  .proza-text {
+    line-height: 1.7;       /* Příjemné řádkování pro čtení */
+    font-size: 1.1rem;      /* Mírně větší písmo */
+  }
+
+  /* Styl pro odstavce v próze */
+  .proza-text p {
+    text-indent: 1.8em;     /* Odsazení prvního řádku odstavce */
+    margin-top: 0;
+    margin-bottom: 1.2em;  /* Mezera (prázdný řádek) mezi odstavci */
+  }
+
+  /* Volitelné: První odstavec po nadpisu tradičně bývá bez odsazení */
+  .proza-text p:first-of-type {
+    text-indent: 0;
+  }
+</style>
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<p>
+  <a href="/{{ page.category | slugify }}/"><b>{{ page.category }}</b></a>{% if page.subcategory %}: {{ page.subcategory }}{% endif %}
+</p>
+<h1>{{ page.title }}</h1>
+
+<div class="proza-text">
+  {{ content }}
+</div>
