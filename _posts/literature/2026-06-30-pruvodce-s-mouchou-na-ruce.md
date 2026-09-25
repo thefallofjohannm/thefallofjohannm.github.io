@@ -56,7 +56,7 @@ Zakoukal jsem se. Pravou ruku držel průvodce spíše u těla, ale různě s n�
 
 „Tak jo!“ koukl na nás průvodce, „tak jdeme na to!“ A vyrazil s radostí do zámku.
 
----
+
 
 „Dovolte mi vám tedy vyprávět příběh o hraběti Janu Františkovi z Geisrucku,“ prohlásil slavnostně s vykulenýma očima a zdvihnutým obočím ve vstupní hale. „Tento rakouský šlechtic zámek koupil prakticky hnedka po jeho přestavbě. Mělo to mnoho výhod, jako třeba nové podlahy, moderní vytápění, kamna, ono tady totiž zrovna nebylo teplo a teď to taky není úplně na tričko, ale také to mělo jednu velkou nevýhodu.“ Tázavě se koukl do lidí.
 
