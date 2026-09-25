@@ -3,22 +3,34 @@ layout: default
 ---
 
 <style>
-  /* Styl pro kontejner prózy */
+  /* Základní styl pro kontejner prózy */
   .proza-text {
-    line-height: 1.7;       /* Příjemné řádkování pro čtení */
-    font-size: 1.1rem;      /* Mírně větší písmo */
+    line-height: 1.7;       /* Příjemná výška řádku pro čtení */
+    font-size: 1.1rem;      /* Příjemná velikost písma */
   }
 
-  /* Styl pro odstavce v próze */
+  /* Knižní styl odstavců */
   .proza-text p {
     text-indent: 1.8em;     /* Odsazení prvního řádku odstavce */
     margin-top: 0;
-    margin-bottom: 1.2em;  /* Mezera (prázdný řádek) mezi odstavci */
+    margin-bottom: 0;       /* Odstavce navazují těsně pod sebou bez mezery */
   }
 
-  /* Volitelné: První odstavec po nadpisu tradičně bývá bez odsazení */
+  /* První odstavec hned pod nadpisem nemá být odsazený (tradiční typografie) */
   .proza-text p:first-of-type {
     text-indent: 0;
+  }
+
+  /* Stylování pro oddělovač scén (když v Markdownu napíšeš ***) */
+  .proza-text hr {
+    border: none;
+    text-align: center;
+    margin: 1.8em 0;
+  }
+  .proza-text hr::before {
+    content: "* * *";
+    color: #777;
+    font-size: 1.1em;
   }
 </style>
 
