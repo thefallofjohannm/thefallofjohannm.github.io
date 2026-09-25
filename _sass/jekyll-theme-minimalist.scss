@@ -315,6 +315,20 @@ kbd {
   width: 0;
 }
 
+/* Knižní styl odstavců - standardně s odsazením */
+.proza-text p {
+  text-indent: 1.8em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Změna scény pomocí *** (vytvoří jen čistou mezeru bez čáry) */
+.proza-text hr {
+  border: none;
+  height: 0;
+  margin: 1em 0; /* Velikost prázdné mezery mezi scénami */
+}
+
 .references-display
   .spliter
     .spliter-item {
