@@ -10,16 +10,18 @@ subcategory: Povídka
 
 ---
 
-„Tak jsme tady.“ 
+„Tak jsme tady.“
+
 „Ve Valmezu?“
+
 Oddychl si a koukl do stropu, „už potřetí, Valašské Meziříčí a Velké Meziříčí jsou dvě (!) odlišná místa,“ vzal batoh a šel ke dveřím.
-„Tak ve Velmezu,“ a šel jsem za ním. 
+
+„Tak ve Velmezu,“ a šel jsem za ním.
 
 „Ach,“ koukl se do země, „zas ty dveře nejdou otevřít!“
 
 „Nojo, to je ve vlaku klasika, jen proto, že to jsou dveře, ještě neznamená, že musí jít otevřít. Ale koukej, mám na to trik.“ Zatlačil jsem na kliku a pak ještě jednou, přešel jsme do vedlejšího vagonu, kde už byly dveře otevřené, a vystoupil jsem.
 
----
 
 „Tak vás tady vítám,“ řekl průvodce na zámku a spojil ruce v pěst. „Ne mnoho lidí váže cestu až sem, hahá, a přitom je to taková škoda.“ Samozřejmě, že je to škoda; spíš by mě překvapilo, kdyby nás přivítal slovy, ježiš, vy jste ze všech zámků přijeli zrovna sem, no tak to je nepříjemný. „Původně to byl hrad, tak jako většina zámků u nás, který se ale postupně modernizoval až se přestavěl na renesanční zámek. Přestavbu začali v roce 1447 páni z Lomnice a o skoro 150 let později ji dokončila Alena Meziříčská v roce 1578, ta už nebyla pánem z Lomnice, byla jen z Lomnice,“ usmál se se září v očích, „učinila tak jako vdova, předtím manželka majitele zámku Zikmunda Heldtu z Kementu.“
 
