@@ -94,7 +94,7 @@ Moucha vzlítla. Pohodil rukou, ale potom zase přistála na jeho pěsti.
 
 „Půjdeme teďka po schodech,“ průvodce ukazoval rukou, „a navštívíme jeho komnatu,“ dal se do pohybu, „pečlivě si prosím prohlídněte ty lovecké trofeje, jedna z nich sem totiž nepatří,“ a šel před nás jako první po schodech.
 
----
+***
 
 „Je tam ještě někdo?“ Přitom nás ani není tolik a stejně se tam někdo ztratil. „Tak,“ průvodce s vykulenýma očima přikývl, když přišel opožděný nemanželský pár, „už jsme tu všichni?“ Koukl se na nás a přepočítával nás, ale podle mě jen dělal, že nás počítá. „Našli jste tu nepatřící trofej?“
 
@@ -150,7 +150,7 @@ A zpoza palce vylezla ta stejná moucha.
 
 „Nené,“ zasmál se, „do tanečního sálu,“ řekl průvodce a levačkou nás popohnal.
 
----
+***
 
 „Vážení,“ průvodce zvážněl a trochu se zamračil, „nyní se nacházíme v tanečním sálu. Řekli byste,“ zakoukal se mezi lidi, „že tady hrabě pořádal večírky, koncerty a takové ty šlechtické záležitosti, jako každý druhý bohatý šlechtic v té době.“ Ano, to bych čekal. „Jan František ale ne!“ A zase cukl tou svou rukou a ta moucha se sotva hnula! „Tady se nacvičovaly ty pohřby,“ moucha mu lezla po hřbetu ruky, „jak jsem dříve zmiňoval. Hrabě si totiž vymyslel proceduru, kterou je nutno vykonati, aby bylo nad slunce jasnější!“ Zvýšil hlas. „Že pán je mrtev!“ Zafoukal studený vánek. „Za prvé!“
 
@@ -178,7 +178,7 @@ Povzdechl jsem si. „Ani když mi shnily brambory, tak jsem neviděl mouchu tak
 
 „Jóóó!“ Přikyvoval průvodce s širokým otevřeným úsměvem. A tou mouchou na ruce. „Co se dá dělat, tak alespoň tu ta rakev zůstala a máme tu překrásný exponát.“
 
----
+***
 
 Vyšli jsme ze zámku na nádvoří a průvodce spustil: „Tak, vážení a milí, přátelé, to je ode mě všechno,“ s krásným úsměvem a zářivýma očima se podíval mezi lidi. „Ještě jednou, jsem moc rád, že jste přijeli na náš zámek a budu jedině rád,“ mával s pěstičkou a tou mouchou vzhůru, „když se tady někdy v budoucnu zase potkáme, anebo sem pošlete své blízké, známe, kamarády nebo vzdálené, neznámé a nepřátele, hehehé,“ a s úsměvem přikývl.
 
