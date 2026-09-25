@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_prose
 title: O čarovné vodě
 category: Literature
 subcategory: Povídka
@@ -9,8 +9,6 @@ subcategory: Povídka
 - .
 
 ---
-
-
 
 
 Traduje se pověst, že existuje víla bydlící ve skalách. Na jednom skalnatém vrcholku, pod nímž proudí řeka, je jeskyně a na ní roste ovocný strom, jehož plody nesmí býti sklizeny. V té jeskyni ze stropu kape voda, kterou víla sbírá do skleněných pohárků. Tisíce bytostí urazí pouť až do těch skalisek, kde vyhledávají vílu a její pohárky, aby mohly poznat samy sebe.
