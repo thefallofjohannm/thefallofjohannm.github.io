@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_prose
 title: Návštěva Kurypánů
 category: Literature
 subcategory: Povídka
