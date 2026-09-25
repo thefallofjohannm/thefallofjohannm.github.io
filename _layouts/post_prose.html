@@ -2,12 +2,14 @@
 layout: default
 ---
 
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<p class="post-meta">
+  <a href="/{{ page.category | slugify }}/"><b>{{ page.category }}</b></a>{% if page.subcategory %}: {{ page.subcategory }}{% endif %}
+</p>
+<h1>{{ page.title }}</h1>
+
+
 <style>
-  /* Základní styl pro kontejner prózy */
-  .proza-text {
-    line-height: 1.7;       /* Příjemná výška řádku pro čtení */
-    font-size: 1.1rem;      /* Příjemná velikost písma */
-  }
 
   /* Knižní styl odstavců */
   .proza-text p {
@@ -34,12 +36,4 @@ layout: default
   }
 </style>
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<p>
-  <a href="/{{ page.category | slugify }}/"><b>{{ page.category }}</b></a>{% if page.subcategory %}: {{ page.subcategory }}{% endif %}
-</p>
-<h1>{{ page.title }}</h1>
-
-<div class="proza-text">
-  {{ content }}
-</div>
+{{content}}
