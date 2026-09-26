@@ -4,6 +4,8 @@ layout: default
 permalink: "/about/"
 ---
 
+# About 
+
 At first, I had no desire for a blog or my own website. 
 It was a very good friend of mine who was repeating all 
 the time that I should create one, and that he is of course 
