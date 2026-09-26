@@ -145,7 +145,7 @@ Doopravdy, horko bylo, že i koleje se z toho začaly kroutit. Šli jsme okolo
 fontánky, když přítel znovu promluvil: „Neosvěžíš se?“ A tak jsem se osvěžil. 
 Osvěžil jsem se vodou pramenitou jak prám.
 
-___
+---
 
 ### Ocenění
 
