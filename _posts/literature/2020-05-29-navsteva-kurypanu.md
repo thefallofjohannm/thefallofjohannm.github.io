@@ -5,10 +5,7 @@ category: Literature
 subcategory: Povídka
 ---
 
-{:toc}
-- .
 
----
 
 Nevěděl jsem, co od návštěvy Kurypánů očekávat. Toto město se nachází v 
 jižních Čechách, a kdyby nebylo mého kamaráda, nikdy bych tam nezavítal. 
@@ -148,3 +145,41 @@ Doopravdy, horko bylo, že i koleje se z toho začaly kroutit. Šli jsme okolo
 fontánky, když přítel znovu promluvil: „Neosvěžíš se?“ A tak jsem se osvěžil. 
 Osvěžil jsem se vodou pramenitou jak prám.
 
+___
+
+### Ocenění
+
+Tuto povídku jsem zaslal v roce 2020 do literární soutěže 
+Cena Alexandry Berkové. Napjatě jsem čekal na výsledky, 
+až mi nakonec přišel e-mail s pozvánkou na vyhlášení. 
+Protože jsem tehdy stále ještě studoval na střední 
+škole v Hradci Králové a vyhlášení mělo pobíhat v 
+Praze ve všením dni, váhal jsem. Samzřejmě, hlavní důvod, 
+proč jsem váhal, byl ten, že jsem z e-mailu jasně nevyčetl, 
+že jsem vyhrál. Dny plynuly, termín, do kterého jsem měl 
+nahlásit svou účast, jsem prošvihl, a nakonec jsem nikam 
+nejel, zůstal jsem doma a zpomněl jsem na to. Pak jsem se 
+jednoho dne podíval do kalendáře a zjistil jsem, že v ten 
+den zrovna probíhalo vyhlášení. „Sakra,“ jsme si řekl a 
+pokračoval dál.
+
+Jenže večer téhož dne mi přišel e-mail, že má povídka 
+byla oceněna a ať jim pošlu adresu, kam to mají poslat. 
+Zrazilo mě to, trochu jsem se zastyděl a pokorně jsem 
+jim svou adresu s poděkováním poslal. 
+
+Jenže uplynulo pár dní, pár týdnů a možná i dva nebo 
+tři měsíce. Cítil jsem se extrémně trapně jim psát,
+„dobrý den, pardon, kde je můj diplom?“ když jsem 
+ani nepřišel na vyhlášení. Ale kdo se neozve nic nedostane.
+
+V dalším e-mailu se mi omluvili, že toho mají moc, 
+ale nakonec jsem svůj diplom obdržel. Hle:
+
+![Diplom Cena AB](/assets/img/2020-05-29-diplom-cena-ab.jpg)
+
+Takže jak jsem se později dozvěděl, mé povídce se dostalo 
+Čestného uznání v kategorii Próza. Radost z toho sice mám, 
+ale jedinečnou příležitost byt v centru dění (tzn. dostat 
+diplom, navázat kontakty a třeba alespoň začít literární 
+kariéru) jsem totálně propásl.
