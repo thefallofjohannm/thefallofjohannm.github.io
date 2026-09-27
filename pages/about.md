@@ -4,14 +4,14 @@ layout: default
 permalink: "/about/"
 ---
 
-# About 
+# About
 
 At first, I had no desire for a blog or my own website. 
 It was a very good friend of mine who was repeating all 
 the time that I should create one, and that he is of course 
 willing to help me anytime. But I did not want one, or better 
 said, I did not _need_ one. I had nothing to upload. And when 
-he created his (another) website for poetry, [lyricall.cz](lyricall.cz), 
+he created his (another) website for poetry, [lyricall.cz](https://lyricall.cz/), 
 where he shares my poems, the number of reasons to start my 
 own almost reached zero.
 
@@ -107,14 +107,14 @@ Enjoy!
 
 ---
 
-# O 
+# O
 
 Na začátku jsem vůbec neuvažoval o vlastním blogu nebo 
 vlastních webovkách. Byl to můj dobrý kamarád, který mi 
 neustále opakoval, že bych si měl vést vlastní blog a že
 mi s tím samozřejmě kdykoli pomůže. Ale já jsem ho nechtěl.
 Nebo spíš _nepotřeboval_. Neměl jsem nic, co bych tam dával. 
-A když založil (další) blog pro poezii, [lyricall.cz](lyricall.cz), kde sdílel mé básně,  tak jsem důvody neměl už skoro žádné.
+A když založil (další) blog pro poezii, [lyricall.cz](https://lyricall.cz/), kde sdílel mé básně,  tak jsem důvody neměl už skoro žádné.
 
 Když jsem potřeboval sdílet své povídky, sdílel jsem 
 je přímo přes zprávy nebo e-mailem. Beztak neměly 
