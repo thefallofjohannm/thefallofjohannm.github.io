@@ -4,8 +4,6 @@ title: Korigování teploty v parní komoře ve wellness pomocí fuzzy regulator
 category: Science
 ---
 
-**Autor:** Tibor Malinský  
-**Datum:** Květen 2025
 
 {:toc}
 - .
