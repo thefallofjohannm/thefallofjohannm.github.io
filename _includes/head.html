@@ -1,6 +1,5 @@
 <head>
   <title>{%- if page.title -%}{{- page.title | escape }}{% else %}{{- site.title | escape }}{% endif -%}</title>
-
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,6 +7,7 @@
   <meta name="generator" content="Jekyll v{{- jekyll.version -}}">
   <link rel="canonical" href="{{- site.url -}}{{- page.url -}}">
   <link rel="alternate" href="{{- site.feed.path | default: '/feed.xml' | relative_url -}}" type="application/atom+xml" title="{{- site.title -}}">
+  <link href="/human.json" rel="human-json">
   <!-- TODO:SEO -->
   <link rel="stylesheet" href="{{- '/assets/css/colors-auto-default-dark.css' | relative_url -}}">
   <link rel="stylesheet" href="{{- '/assets/css/style.css' | relative_url -}}">
