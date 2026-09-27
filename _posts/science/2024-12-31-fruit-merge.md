@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fruit Merge - Fruit Analysis the Code
+title: Fruit Merge Analysis the Code
 category: Science
 subcategory: Data analysis
 ---
