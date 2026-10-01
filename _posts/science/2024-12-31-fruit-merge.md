@@ -52,33 +52,50 @@ It is useful if you want to evaluate exactly one game and not the whole CSV data
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#START OF THE ORIGINAL CODE
+
+# This part can be useful to evaluate one particular game and not all of them
 # loading data as "df"
 df = pd.read_csv('fruit_record.csv', sep =";")
 # data are separated with ";" ==> sep = ";"
 # data include header
 
 # show the head
-print(df.head())
+#print(df.head())
 # each game has its own column
 # indexing automatically columns and rows starting with 0
 
 # show the tail
-print(df.tail())
+#print(df.tail())
 # missing data are filled up with NaN, each game is different
 
+# indexing to see the max row number (in case of need)
+#print(df.index)
+# currently start = 0, stop = 297
+
 #  DataFrame.columns:
-# print(df.columns)
+#print(df.columns)
 # currently start = 0, stop 4
+
+#quick statistics
+#print("\n", df.describe())
+# is not useful, doesn't show statistics for each letter
+# shows how many letters (unique = 5), the most common (top), and how often (freq)
+# .count() only counts overall number of elements, not specific
 
 # selecting one column
 df_game1 = df["GAME 1"]
-print(df_game1,"\n")
+#print(df_game1,"\n")
+#print("\n",df_game1.count())
+#print("\n",df_game1.describe())
 df_game2 = df["GAME 2"]
 df_game3 = df["GAME 3"]
 df_game4 = df["GAME 4"]
 
-# Counting the number of each letter in each game
+print()
+
+"Part 1: Histograms"
+
+# counting number of each letter in each game
 print("GAME 1:\n",df_game1.value_counts(), end= "\n\n")
 print("GAME 2:\n",df_game2.value_counts(), end= "\n\n")
 print("GAME 3:\n",df_game3.value_counts(), end= "\n\n")
@@ -114,7 +131,7 @@ plt.show()
 
 "Game 1"
 
-print("Pair finding")
+print("GAME 1 \n\nPair finding")
 
 # this search is "first" and "then", that means that in 49 cases we can say that the next fruit is going to be the same
 # starting if zero pairs
@@ -164,10 +181,12 @@ print(f"Number of C pairs: {number_of_C_pairs}, per C: {number_of_C_pairs}/{n_C}
 print(f"Number of H pairs: {number_of_H_pairs}, per H: {number_of_H_pairs}/{n_H}, per thrown fruit: {number_of_H_pairs}/{len(df_game1)}")
 print(f"Number of P pairs: {number_of_P_pairs}, per P: {number_of_P_pairs}/{n_P}, per thrown fruit: {number_of_P_pairs}/{len(df_game1)}")
 
+
 print("\n")
 
-print("Find subsequent fruit")
-"The following section is to find subsequent fruit. Because T+T gives B, the aim is to find TTB, BBC, CCH, HHP."
+print("Finding subsequent fruit")
+"The following section is to find subsequent fruit."
+"Because T+T gives B, the aim is to find TTB, BBC, CCH, HHP."
 
 n_TTB = 0
 n_BBC = 0
@@ -175,7 +194,6 @@ n_CCH = 0
 n_HHP = 0
 for position in range(2,len(df_game1)):
     if df_game1.loc[position-2] == df_game1.loc[position-1]:
-        #print(f"Tady je dvojice: {position}")
         if df_game1.loc[position-2] == "T":
             if df_game1.loc[position] == "B":
                 n_TTB += 1
@@ -196,7 +214,7 @@ print(f"Number of HHP: {n_HHP}, per H: {n_HHP}/{n_H}, per thrown fruit: {n_HHP}/
 
 print("\n")
 
-print("Find previous fruit")
+print("Finding previous fruit")
 "The following section is to find previous fruit. Because T+T gives B, the aim is to find BTT, CBB, HCC, PHH."
 n_BTT = 0
 n_CBB = 0
@@ -226,7 +244,42 @@ print(f"Number of PHH: {n_PHH}, per P: {n_PHH}/{n_P}, per thrown fruit: {n_PHH}/
 print("\n")
 
 print(f"Number of ALL combinations per thrown fruit: {n_BTT+n_CBB+n_HCC+n_PHH+n_TTB+n_BBC+n_CCH+n_HHP}/{len(df_game1)}")
+
 ```
+
+## Results
+
+GAME 1 
+
+Pair finding
+Number of pairs: 49
+number of pairs per thrown fruit 49/297
+Number of T pairs: 10, per T: 10/53, per thrown fruit: 10/297
+Number of B pairs: 12, per B: 12/62, per thrown fruit: 12/297
+Number of C pairs: 10, per C: 10/59, per thrown fruit: 10/297
+Number of H pairs: 10, per H: 10/64, per thrown fruit: 10/297
+Number of P pairs: 7, per P: 7/58, per thrown fruit: 7/297
+
+Finding subsequent fruit
+Number of combinations per thrown fruit: 11/297
+Number of TTB: 2, per T: 2/53, per thrown fruit: 2/297
+Number of BBC: 4, per B: 4/62, per thrown fruit: 4/297
+Number of CCH: 5, per C: 5/59, per thrown fruit: 5/297
+Number of HHP: 0, per H: 0/64, per thrown fruit: 0/297
+
+Finding previous fruit
+Number of combinations per thrown fruit: 12/297
+Number of BTT: 2, per B: 2/62, per thrown fruit: 2/297
+Number of CBB: 2, per C: 2/59, per thrown fruit: 2/297
+Number of HCC: 4, per H: 4/64, per thrown fruit: 4/297
+Number of PHH: 4, per P: 4/58, per thrown fruit: 4/297
+
+Number of ALL combinations per thrown fruit: 23/297
+
+## Discussion
+
+Despite my big hopes, it seems that the useful combinations from above come only rarely, and I cannot hack the game as I hoped.
+
 
 # Automated code for a complete analysis
 
@@ -238,6 +291,9 @@ problem. But if you have more than 10 games recorded
 a bit.  
 
 ```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
 def load_data(file):
     # loading the CSV data using pandas (DataFrame)
     return pd.read_csv(file, sep=";")
@@ -262,14 +318,36 @@ def histogram(df,columns):
 
     # histogram for all games at once
     plt.figure("All games fruit count")
-    fruit_counts.plot(kind='bar')
+    fruit_counts.plot(kind='bar', color = "purple")
 
     #Histograms for each game
     for column in columns:
         plt.figure(f"{column} fruit count")
-        df[column].value_counts().plot(kind='bar')
+        df[column].value_counts().plot(kind='bar', color = "red")
 
     plt.show()
+    
+"""
+Alternativelly, to order the fruit from the smallest to the biggest
+def histogram(df, columns):
+    # Definice požadovaného pořadí ovoce
+    fruit_order = ["T", "B", "C", "H", "P"]
+
+    # Histogram pro všechny hry dohromady
+    df_melted = df.melt(var_name="Game", value_name="Fruit")
+    fruit_counts = df_melted["Fruit"].value_counts().reindex(fruit_order, fill_value=0)
+
+    plt.figure("All games fruit count")
+    fruit_counts.plot(kind="bar", color="purple")
+
+    # Histogramy pro jednotlivé hry
+    for column in columns:
+        plt.figure(f"{column} fruit count")
+        game_counts = df[column].value_counts().reindex(fruit_order, fill_value=0)
+        game_counts.plot(kind="bar", color="red")
+        
+    plt.show()
+"""
 
 def find_fruit_pairs(df, column):
     #finding if and how frequent two-same-letter combinations are in a game (pairs)
@@ -283,7 +361,7 @@ def find_fruit_pairs(df, column):
         current_fruit = game_data.loc[i]
         previous_fruit = game_data.loc[i-1]
 
-        # stop processing if any value is NaN (each game is different, different mount of thrown fruit)
+        # stop processing if any value is NaN (each game is different, different amount of thrown fruit)
         if pd.isna(current_fruit) or pd.isna(previous_fruit):
             break
 
@@ -341,7 +419,7 @@ def find_combinations(df, column, patterns):
             pattern_counts[combination] += 1
 
     # showing results
-    print(f"Game: {column} - Pattern counts")
+    print(f"\nGame: {column} - Pattern counts")
     for pattern, count in pattern_counts.items():
         print(f"{pattern}: {count}")
 
@@ -372,3 +450,164 @@ quick_data(df)
 analyze_all_games(df)
 ```
 
+## Results
+
+### Analyzing GAME 1
+
+Total pairs: 49  
+T pairs: 10, per T: 10/53, per total thrown: 10/297  
+B pairs: 12, per B: 12/62, per total thrown: 12/297  
+C pairs: 10, per C: 10/59, per total thrown: 10/297  
+H pairs: 10, per H: 10/64, per total thrown: 10/297  
+P pairs: 7, per P: 7/58, per total thrown: 7/297  
+
+Pattern counts  
+TTB: 2  
+BBC: 4  
+CCH: 5  
+HHP: 0  
+
+Pattern counts  
+BTT: 2  
+CBB: 2  
+HCC: 4  
+PHH: 4  
+
+![GAME_1_fruit_count.png](../../assets/img/fruit_merge/GAME_1_fruit_count.png)
+Histogram Game 1
+
+
+### Analyzing GAME 2
+
+Total pairs: 34  
+T pairs: 3, per T: 3/29, per total thrown: 3/206  
+B pairs: 7, per B: 7/48, per total thrown: 7/206  
+C pairs: 7, per C: 7/38, per total thrown: 7/206  
+H pairs: 8, per H: 8/54, per total thrown: 8/206  
+P pairs: 9, per P: 9/36, per total thrown: 9/206  
+
+Pattern counts  
+TTB: 2  
+BBC: 1  
+CCH: 2  
+HHP: 0  
+
+Pattern counts  
+BTT: 0  
+CBB: 1  
+HCC: 2  
+PHH: 2  
+
+![GAME_2_fruit_count.png](../../assets/img/fruit_merge/GAME_2_fruit_count.png)
+Histogram Game 2
+
+
+### Analyzing GAME 3
+
+Total pairs: 34  
+T pairs: 9, per T: 9/46, per total thrown: 9/204  
+B pairs: 5, per B: 5/35, per total thrown: 5/204  
+C pairs: 8, per C: 8/38, per total thrown: 8/204  
+H pairs: 10, per H: 10/49, per total thrown: 10/204  
+P pairs: 2, per P: 2/35, per total thrown: 2/204  
+
+Pattern counts  
+TTB: 4  
+BBC: 1  
+CCH: 5  
+HHP: 2  
+
+Pattern counts  
+BTT: 1  
+CBB: 2  
+HCC: 1  
+PHH: 3  
+
+![GAME_3_fruit_count.png](../../assets/img/fruit_merge/GAME_3_fruit_count.png)
+Histogram Game 3
+
+### Analyzing GAME 4
+
+Total pairs: 40  
+T pairs: 4, per T: 4/31, per total thrown: 4/237  
+B pairs: 8, per B: 8/48, per total thrown: 8/237  
+C pairs: 9, per C: 9/58, per total thrown: 9/237  
+H pairs: 15, per H: 15/65, per total thrown: 15/237  
+P pairs: 4, per P: 4/34, per total thrown: 4/237  
+
+Pattern counts  
+TTB: 1  
+BBC: 2  
+CCH: 4  
+HHP: 0  
+
+Pattern counts  
+BTT: 1  
+CBB: 5  
+HCC: 3  
+PHH: 3  
+
+![GAME_4_fruit_count.png](../../assets/img/fruit_merge/GAME_4_fruit_count.png)
+Histogram Game 4
+
+### Analyzing GAME 5:
+
+Game: GAME 5  
+Total pairs: 24  
+T pairs: 5, per T: 5/32, per total thrown: 5/168  
+B pairs: 8, per B: 8/37, per total thrown: 8/168  
+C pairs: 1, per C: 1/32, per total thrown: 1/168  
+H pairs: 6, per H: 6/40, per total thrown: 6/168  
+P pairs: 4, per P: 4/26, per total thrown: 4/168  
+
+Pattern counts  
+TTB: 1  
+BBC: 0  
+CCH: 0  
+HHP: 0  
+
+Pattern counts  
+BTT: 0  
+CBB: 1  
+HCC: 1  
+PHH: 1  
+
+![GAME_5_fruit_count.png](../../assets/img/fruit_merge/GAME_5_fruit_count.png)
+Histogram Game 5
+
+### All games
+
+![All_games_fruit_count.png](../../assets/img/fruit_merge/All_games_fruit_count.png)
+Histogram All Games
+
+## Discussion
+
+Given the results, it is not possible to say, that one can 
+predict or rely on useful combinations in the game. However, 
+given the histograms for each game, we can see a clear trend. 
+Hrozny (=grapes) are thrown the most. This applies for each 
+game and even when the data are combined. This is an interesting
+finding  as hrozny are penultimate biggest 
+fruit thrown.
+
+Interestingly, the results from Game 1 and Game 4 
+are very different. While in the former case it is 
+possible to say, that the fruit is thrown almost 
+uniformly, in the latter case the difference 
+between the most (Hrozny) and least (Třešně) 
+thrown fruit is almost double. This could indicate, 
+that the longer the game is, the more uniform the 
+distribution is. The shortest game was the Game 5 and 
+it is more uniform than Game 4. 
+
+The fact that the least thrown fruit is usually 
+Třešně (=cherry) or Pomeranč (=orange) could imply 
+that either is thrown based on how successful the 
+game is. If the player manages to get bigger fruits, 
+Pomeranče are thrown more often, whereas if the game
+is not successful, Třešně are thrown more often. 
+However, the relationship between fruit thrown and 
+fruit in the basket was not studied.
+
+Based on the data for all games it appears that neither 
+extreme, Třešně or Pomeranče.  
