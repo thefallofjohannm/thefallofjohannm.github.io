@@ -1,10 +1,10 @@
-title: Tibor
-author: Tibor
+title: TMa
+author: TMa
 url: "https://tibor.ggu.cz"
 language: "cs-cz"
 
 logo: /assets/img/logo.png
-description: Já a můj blog.
+description: The finest reading.
 show_downloads: false
 color-scheme: dark
 date-format: "%d %B %Y"
@@ -27,7 +27,7 @@ sidebar:
     icon: <i class="fa-solid fa-print"></i>
     link: /literature/
   - name: Visual Arts
-    icon: <i class="fa-solid fa-palette"></i>
+    icon: <i class="fa-solid fa-dragon">
     link: /visual-arts/
   - name: Science
     icon: <i class="fa-sharp fa-solid fa-fire"></i>
