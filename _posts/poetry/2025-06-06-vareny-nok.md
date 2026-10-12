@@ -4,7 +4,6 @@ title: Vařený ňok
 category: poetry
 ---
 
-
 Bloudím. Bloudím. Bloudím?  
 Tam a zpátky, zpátky a tam,  
 s proudem plavu sám,  
@@ -51,5 +50,12 @@ Padám... padám? Padám.
 
 ---
 
-
-
+![Vařený ňok 1 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-1.jpg)
+![Vařený ňok 2 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-2.jpg)
+![Vařený ňok 3 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-3.jpg)
+![Vařený ňok 4 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-4.jpg)
+![Vařený ňok 5 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-5.jpg)
+![Vařený ňok 6 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-6.jpg)
+![Vařený ňok 7 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-7.jpg)
+![Vařený ňok 8 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-8.jpg)
+![Vařený ňok 9 - Tibor Malinský](/assets/img/poetry_pictures/vareny-nok/vn-9.jpg)
