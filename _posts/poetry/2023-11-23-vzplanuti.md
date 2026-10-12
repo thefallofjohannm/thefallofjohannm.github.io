@@ -20,7 +20,7 @@ Kéž bych mohl hořet, ale obávám se, že posledně to bylo naposled...
 
 ---
 
-![Vzplanutí - Tibor Malinský](/assets/img/poetry/2022-11-23-vzplanuti.heic)
+![Vzplanutí - Tibor Malinský](/assets/img/poetry_pictures/2023-11-23-vzplanuti.jpg)
 
 ---
 
